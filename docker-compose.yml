@@ -1,0 +1,76 @@
+services:
+  chat_app:
+    # build:
+    image:
+      context: hoang636/qld-agentsys-app:latest
+      dockerfile: DOCKERFILE  
+    # image: qld-agentsys-app:dev
+    container_name: qld_agentsys_app
+    ports:
+      - "8501:8501"
+    environment:
+      - MONGODB_URI=${MONGODB_URI}
+      - OLLAMA_BASE_URL=${OLLAMA_LOCAL_HOST}
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - DATA_DIR=/app/data_external
+      - NGROK_AUTH_TOKEN=${NGROK_AUTH_TOKEN} 
+    volumes:
+      # - ./qld-agentsys:/app 
+      - ./data:/app/data_external:ro 
+    depends_on:
+      mongodb:
+        condition: service_healthy
+      ollama:
+        condition: service_healthy
+    restart: unless-stopped
+    networks: [app_net]
+
+  ollama:
+    image: ollama/ollama:0.1.34
+    container_name: ollama_service
+    ports: ["11434:11434"]
+    volumes: [ollama_data:/root/.ollama]
+    networks: [app_net]
+    command: >
+      sh -c "
+      ollama serve && 
+      echo 'Pulling llama3 model...' &&
+      ollama pull llama3 &&
+      echo 'Pulling mxbai-embed-large model...' &&
+      ollama pull mxbai-embed-large
+      "
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:11434 || exit 1"]
+      interval: 15s
+      timeout: 5s
+      retries: 5
+    deploy: 
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+
+  mongodb:
+    image: mongo:6.0 
+    container_name: mongodb_service
+    ports: ["27017:27017"]
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=${MONGO_ROOT_USER}
+      - MONGO_INITDB_ROOT_PASSWORD=${MONGO_ROOT_PASSWORD}
+    volumes: [mongodb_data:/data/db]
+    networks: [app_net]
+    healthcheck:
+      test: ["CMD-SHELL", "mongosh --quiet --eval 'db.adminCommand(\"ping\")'"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  ollama_data:
+  mongodb_data:
+
+networks:
+  app_net:
+    driver: bridge

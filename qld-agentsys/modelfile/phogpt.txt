@@ -1,0 +1,1 @@
+FROM vi-dominic/phogpt:4b

@@ -1,0 +1,36 @@
+# ############### build stage ###############
+# FROM python:3.10-slim AS builder
+# WORKDIR /app
+# COPY requirements.txt .
+# RUN pip install --user --no-cache-dir -r requirements.txt \
+#  && rm -rf /root/.cache/pip
+
+# ############### runtime stage #############
+# FROM python:3.10-slim
+# WORKDIR /app
+# ENV PATH=/root/.local/bin:$PATH \
+#     STREAMLIT_SERVER_PORT=8501 \
+#     PYTHONUNBUFFERED=1
+# COPY --from=builder /root/.local /root/.local
+# COPY . .
+# EXPOSE 8501
+# CMD ["streamlit", "run", "chat_app.py", "--server.headless", "true"]
+
+
+# Use the official Python image as the base image
+FROM python:3.12.8-slim
+
+# Set the working directory inside the container
+WORKDIR /app
+
+# Copy all files from the current directory to the container's working directory
+COPY . /app/
+
+# Install dependencies
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Expose port for Streamlit app
+EXPOSE 8501
+
+# Run Ollama server and Streamlit app
+CMD ["bash", "-c", "python3 run_ollama.py & python3 run_app.py"]

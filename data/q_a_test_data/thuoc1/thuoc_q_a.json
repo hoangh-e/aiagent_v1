@@ -1,0 +1,454 @@
+[
+    {
+      "question": "Thuốc Paracetamol 500mg được đăng ký với số đăng ký nào và do công ty nào sản xuất?",
+      "answer": "Thuốc Paracetamol 500mg có thể được đăng ký với nhiều số đăng ký khác nhau tùy thuộc vào nhà sản xuất. Ví dụ, một trong những số đăng ký phổ biến là VD-12345-09 do Công ty Dược phẩm Hà Nội sản xuất. Mỗi số đăng ký thuốc sẽ bao gồm thông tin về đợt cấp phép, tiêu chuẩn chất lượng và thời hạn hiệu lực của giấy phép."
+    },
+    {
+      "question": "Hoạt chất chính trong thuốc Amoxicillin là gì và thuốc này thường được sản xuất ở dạng bào chế nào?",
+      "answer": "Hoạt chất chính trong thuốc Amoxicillin chính là Amoxicillin, một kháng sinh nhóm beta-lactam thuộc họ Penicillin. Thuốc này thường được sản xuất ở nhiều dạng bào chế khác nhau như viên nang cứng, viên nén, bột pha hỗn dịch uống, và bột pha tiêm. Các dạng phổ biến nhất là viên nang 250mg, 500mg và bột pha hỗn dịch 125mg/5ml, 250mg/5ml dùng cho trẻ em."
+    },
+    {
+      "question": "Tá dược Lactose được sử dụng trong những loại thuốc nào và có vai trò gì?",
+      "answer": "Tá dược Lactose được sử dụng trong nhiều loại thuốc như Paracetamol, Amoxicillin, Cephalexin, và nhiều thuốc viên nén khác. Lactose đóng vai trò là chất độn (filler) giúp tăng thể tích của viên thuốc, đặc biệt khi lượng hoạt chất ít. Ngoài ra, nó còn có tính chất làm dính, giúp các thành phần khác của thuốc kết dính với nhau tốt hơn trong quá trình bào chế. Tuy nhiên, cần lưu ý rằng những người bị không dung nạp lactose cần thận trọng khi sử dụng các thuốc có chứa tá dược này."
+    },
+    {
+      "question": "Thuốc Berberin có nguồn gốc từ đâu và được sử dụng để điều trị bệnh gì?",
+      "answer": "Berberin là một alkaloid được chiết xuất từ nhiều loại thực vật như hoàng liên (Coptis chinensis), hoàng bá (Phellodendron amurense), và hoàng đằng (Berberis). Ở Việt Nam, thuốc Berberin thường được sản xuất dưới dạng viên nén và được sử dụng chủ yếu để điều trị các rối loạn tiêu hóa như tiêu chảy cấp và mạn tính, viêm ruột, hội chứng ruột kích thích. Ngoài ra, berberin còn có tác dụng kháng khuẩn, chống viêm, và có thể hỗ trợ trong điều trị bệnh tiểu đường type 2 do khả năng giảm đường huyết."
+    },
+    {
+      "question": "Thuốc Levothyroxine sử dụng để điều trị bệnh gì và cần lưu ý những gì khi sử dụng?",
+      "answer": "Thuốc Levothyroxine được sử dụng để điều trị suy giáp (thiểu năng tuyến giáp), một tình trạng mà tuyến giáp không sản xuất đủ hormone giáp. Khi sử dụng thuốc này cần lưu ý: (1) Uống vào buổi sáng, lúc đói, ít nhất 30-60 phút trước bữa ăn đầu tiên; (2) Tránh uống cùng các thuốc có chứa canxi, sắt, nhôm vì sẽ làm giảm hấp thu thuốc; (3) Không nên thay đổi thương hiệu thuốc khi đang điều trị; (4) Cần kiểm tra nồng độ hormone TSH định kỳ để điều chỉnh liều phù hợp; (5) Thông báo cho bác sĩ nếu có các triệu chứng quá liều như tim đập nhanh, đổ mồ hôi, mất ngủ, run tay."
+    },
+    {
+      "question": "Tiêu chuẩn USP và BP trong dược phẩm là gì và khác nhau như thế nào?",
+      "answer": "USP (United States Pharmacopeia) và BP (British Pharmacopoeia) là hai tiêu chuẩn chất lượng dược phẩm được sử dụng phổ biến trên thế giới. USP là bộ tiêu chuẩn của Hoa Kỳ, trong khi BP là bộ tiêu chuẩn của Anh Quốc. Hai tiêu chuẩn này khác nhau ở một số điểm như: phương pháp phân tích, giới hạn tạp chất cho phép, và yêu cầu về độ hòa tan của thuốc. Ví dụ, một số thuốc có thể có yêu cầu về hàm lượng hoạt chất theo USP là 95-105%, trong khi BP có thể yêu cầu 90-110%. Các nhà sản xuất thuốc tại Việt Nam có thể áp dụng một trong hai tiêu chuẩn này hoặc tiêu chuẩn Dược điển Việt Nam (DĐVN) tùy theo đăng ký."
+    },
+    {
+      "question": "Thuốc Metformin được sử dụng trong điều trị bệnh gì và có những tác dụng phụ nào phổ biến?",
+      "answer": "Thuốc Metformin được sử dụng chủ yếu trong điều trị đái tháo đường type 2. Thuốc hoạt động bằng cách giảm lượng glucose sản xuất bởi gan và tăng độ nhạy của các tế bào cơ thể với insulin. Các tác dụng phụ phổ biến của Metformin bao gồm: rối loạn tiêu hóa (buồn nôn, tiêu chảy, đau bụng, đầy hơi), vị kim loại trong miệng, và giảm hấp thu vitamin B12 khi sử dụng lâu dài. Tác dụng phụ nghiêm trọng hiếm gặp nhưng nguy hiểm là nhiễm toan lactic, đặc biệt ở những bệnh nhân có suy thận, suy gan hoặc suy tim."
+    },
+    {
+      "question": "Nguyên liệu Valsartan được sử dụng trong sản xuất thuốc gì và được phân loại như thế nào?",
+      "answer": "Nguyên liệu Valsartan được sử dụng trong sản xuất các thuốc điều trị tăng huyết áp, suy tim và sau nhồi máu cơ tim. Valsartan thuộc nhóm thuốc đối kháng thụ thể angiotensin II (ARBs). Nguyên liệu này được phân loại là hoạt chất dược phẩm (API - Active Pharmaceutical Ingredient), với tiêu chuẩn chất lượng thường theo USP hoặc BP. Tại Việt Nam, Valsartan không thuộc danh mục kiểm soát đặc biệt, nhưng việc sản xuất thuốc chứa Valsartan phải tuân theo các yêu cầu nghiêm ngặt về GMP và được Cục Quản lý Dược cấp phép."
+    },
+    {
+      "question": "Tuổi thọ của thuốc là gì và các yếu tố nào ảnh hưởng đến tuổi thọ của thuốc?",
+      "answer": "Tuổi thọ của thuốc (hay hạn sử dụng) là khoảng thời gian mà nhà sản xuất đảm bảo thuốc vẫn giữ được hiệu lực và an toàn khi được bảo quản đúng điều kiện. Các yếu tố ảnh hưởng đến tuổi thọ thuốc bao gồm: (1) Bản chất hóa học của hoạt chất (một số hoạt chất dễ bị phân hủy dưới tác động của ánh sáng, nhiệt độ, độ ẩm); (2) Dạng bào chế (thuốc dạng lỏng thường có tuổi thọ ngắn hơn thuốc dạng rắn); (3) Phương pháp bảo quản (nhiệt độ, độ ẩm, ánh sáng); (4) Chất lượng bao bì đóng gói; (5) Sự tương tác giữa hoạt chất và tá dược trong công thức. Thông thường, tuổi thọ của thuốc được xác định thông qua các nghiên cứu độ ổn định theo tiêu chuẩn ICH."
+    },
+    {
+      "question": "Thuốc kiểm soát đặc biệt là gì và có những quy định nào đặc biệt về sử dụng và bảo quản?",
+      "answer": "Thuốc kiểm soát đặc biệt là những thuốc được quản lý nghiêm ngặt do có nguy cơ gây nghiện, lạm dụng, hoặc có tác dụng mạnh có thể gây hại nếu sử dụng không đúng. Một số quy định đặc biệt đối với các loại thuốc này bao gồm: (1) Phải có đơn thuốc của bác sĩ có thẩm quyền; (2) Nhà thuốc phải đăng ký với cơ quan quản lý và có sổ theo dõi xuất-nhập riêng; (3) Bảo quản trong tủ hoặc khu vực riêng, có khóa; (4) Thời hạn sử dụng của đơn thuốc ngắn hơn (thường 5-7 ngày); (5) Không được quảng cáo; (6) Bệnh nhân phải ký nhận khi mua thuốc; (7) Định kỳ báo cáo số lượng nhập, xuất, tồn kho cho cơ quan quản lý. Các thuốc thuộc nhóm này bao gồm: thuốc gây nghiện, thuốc hướng thần, tiền chất dùng làm thuốc, và một số thuốc kháng sinh có quản lý đặc biệt."
+    },
+    {
+      "question": "Tại sao một số thuốc yêu cầu phải có hồ sơ ACTD và hồ sơ ACTD bao gồm những nội dung gì?",
+      "answer": "Một số thuốc yêu cầu phải có hồ sơ ACTD (ASEAN Common Technical Document) vì chúng thuộc nhóm thuốc mới, thuốc sinh học, thuốc có nguy cơ cao hoặc cần đánh giá đặc biệt về an toàn và hiệu quả. Hồ sơ ACTD bao gồm 4 phần chính: (1) Phần 1: Dữ liệu hành chính và thông tin sản phẩm (tóm tắt đặc tính sản phẩm, nhãn, tờ hướng dẫn sử dụng); (2) Phần 2: Chất lượng (thành phần, quy trình sản xuất, kiểm soát chất lượng, độ ổn định); (3) Phần 3: Dữ liệu tiền lâm sàng (nghiên cứu độc tính, dược lý học); (4) Phần 4: Dữ liệu lâm sàng (kết quả thử nghiệm lâm sàng về an toàn và hiệu quả). Hồ sơ ACTD giúp cơ quan quản lý dược đánh giá toàn diện về thuốc trước khi cấp phép lưu hành."
+    },
+    {
+      "question": "Thuốc Clopidogrel được sử dụng trong những trường hợp nào và cần chú ý gì khi kê đơn?",
+      "answer": "Thuốc Clopidogrel được sử dụng trong các trường hợp: (1) Phòng ngừa biến cố tim mạch ở bệnh nhân bị nhồi máu cơ tim, đột quỵ hoặc bệnh động mạch ngoại biên; (2) Hội chứng vành cấp; (3) Sau đặt stent mạch vành để ngăn huyết khối. Khi kê đơn Clopidogrel cần chú ý: (1) Tăng nguy cơ chảy máu, đặc biệt khi phối hợp với aspirin hoặc thuốc chống đông khác; (2) Cần ngừng thuốc 5-7 ngày trước phẫu thuật lớn; (3) Một số bệnh nhân có thể là người chuyển hóa kém CYP2C19 làm giảm hiệu quả thuốc; (4) Tương tác với thuốc ức chế bơm proton (PPI) như omeprazole làm giảm hiệu quả Clopidogrel; (5) Theo dõi các dấu hiệu chảy máu như bầm tím, chảy máu chân răng, phân đen."
+    },
+    {
+      "question": "Thuốc Rosuvastatin có cơ chế tác dụng như thế nào và được sử dụng trong những trường hợp nào?",
+      "answer": "Rosuvastatin là thuốc thuộc nhóm statin, có cơ chế tác dụng là ức chế enzyme HMG-CoA reductase - enzyme then chốt trong quá trình tổng hợp cholesterol nội sinh tại gan. Điều này dẫn đến giảm nồng độ cholesterol toàn phần, LDL-C (cholesterol xấu), triglyceride và tăng HDL-C (cholesterol tốt) trong máu. Rosuvastatin được sử dụng trong các trường hợp: (1) Điều trị tăng cholesterol máu nguyên phát (tăng cholesterol có tính chất gia đình và không có tính chất gia đình); (2) Phòng ngừa các biến cố tim mạch ở người có nguy cơ cao; (3) Làm chậm tiến triển của xơ vữa động mạch; (4) Dự phòng tiên phát bệnh tim mạch ở người có yếu tố nguy cơ cao như tăng hsCRP (protein C phản ứng độ nhạy cao) mà không có bệnh tim mạch rõ ràng."
+    },
+    {
+      "question": "Thuốc Enalapril được sử dụng để điều trị bệnh gì và tại sao một số bệnh nhân không nên sử dụng thuốc này?",
+      "answer": "Thuốc Enalapril (thuộc nhóm ức chế men chuyển - ACEi) được sử dụng để điều trị: (1) Tăng huyết áp; (2) Suy tim; (3) Bệnh thận do đái tháo đường; (4) Sau nhồi máu cơ tim để cải thiện chức năng tim. Một số bệnh nhân không nên sử dụng thuốc này bao gồm: (1) Người có tiền sử phù mạch liên quan đến điều trị bằng ACEi; (2) Phụ nữ mang thai (đặc biệt là 3 tháng giữa và cuối thai kỳ do có thể gây dị tật cho thai nhi); (3) Bệnh nhân hẹp động mạch thận hai bên hoặc hẹp động mạch thận trên thận đơn độc; (4) Người bị tăng kali máu; (5) Bệnh nhân đang dùng thuốc có aliskiren và có bệnh đái tháo đường hoặc suy thận; (6) Bệnh nhân đang lọc máu với màng lọc polyacrylonitrile."
+    },
+    {
+      "question": "Vắc xin phòng bệnh HPV có những loại nào và điều gì khác biệt giữa chúng?",
+      "answer": "Vắc xin phòng bệnh HPV (Human Papillomavirus) hiện có 3 loại chính: (1) Vắc xin Cervarix (2 giá): phòng ngừa HPV type 16 và 18, là nguyên nhân chính gây ung thư cổ tử cung; (2) Vắc xin Gardasil (4 giá): phòng ngừa HPV type 6, 11, 16 và 18, ngoài phòng ung thư cổ tử cung còn phòng được các u nhú sinh dục; (3) Vắc xin Gardasil 9 (9 giá): phòng ngừa 9 type HPV (6, 11, 16, 18, 31, 33, 45, 52, 58) nên bảo vệ rộng hơn, có thể phòng ngừa khoảng 90% các trường hợp ung thư cổ tử cung. Sự khác biệt chính giữa các loại vắc xin là phổ bảo vệ, với Gardasil 9 có phổ rộng nhất. Lịch tiêm cũng khác nhau: Cervarix tiêm 2-3 mũi, Gardasil tiêm 3 mũi, Gardasil 9 tiêm 2-3 mũi tùy theo độ tuổi."
+    },
+    {
+      "question": "Thuốc kháng sinh Meropenem được sử dụng trong những trường hợp nào và tại sao phải kiểm soát việc sử dụng loại thuốc này?",
+      "answer": "Meropenem là kháng sinh nhóm carbapenem phổ rộng, được sử dụng trong các trường hợp: (1) Nhiễm khuẩn nặng do vi khuẩn đa kháng; (2) Viêm màng não; (3) Viêm phổi bệnh viện, viêm phổi liên quan đến thở máy; (4) Nhiễm khuẩn ổ bụng phức tạp; (5) Nhiễm khuẩn huyết; (6) Nhiễm khuẩn đường tiết niệu phức tạp. Việc sử dụng Meropenem cần được kiểm soát chặt chẽ vì: (1) Là kháng sinh dự trữ, chỉ dùng khi các kháng sinh khác không hiệu quả; (2) Sử dụng không hợp lý dẫn đến tình trạng kháng thuốc, làm giảm hiệu quả điều trị và tăng chi phí; (3) Có thể gây tác dụng phụ nghiêm trọng như co giật (đặc biệt ở bệnh nhân suy thận hoặc có tiền sử động kinh); (4) Làm tăng nguy cơ nhiễm Clostridium difficile; (5) Tại Việt Nam, thuốc này thuộc danh mục kháng sinh hạn chế sử dụng, cần có sự đồng ý của khoa Dược và chuyên gia nhiễm khuẩn."
+    },
+    {
+      "question": "Các dạng bào chế của thuốc Salbutamol là gì và chúng được sử dụng trong những trường hợp cụ thể nào?",
+      "answer": "Thuốc Salbutamol có các dạng bào chế chính: (1) Dạng hít (MDI - bình xịt định liều, DPI - bột hít khô, hoặc dung dịch phun sương): sử dụng trong cơn hen cấp, điều trị duy trì hen phế quản và bệnh phổi tắc nghẽn mãn tính (COPD); (2) Dạng viên uống (thường là viên nén 2mg, 4mg hoặc viên phóng thích kéo dài): sử dụng trong điều trị duy trì hen phế quản, ít được sử dụng do tác dụng phụ toàn thân nhiều hơn; (3) Dạng tiêm (ống tiêm 0.5mg/ml): sử dụng trong cơn hen nặng không đáp ứng với các thuốc hít, hoặc dùng để ngăn chặn chuyển dạ sinh non; (4) Dạng siro: thường dùng cho trẻ em không thể sử dụng các dạng hít. Đường dùng hít được ưu tiên vì tác dụng nhanh, liều thấp và ít tác dụng phụ toàn thân như run tay, tim đập nhanh, hạ kali máu so với đường uống hoặc tiêm."
+    },
+    {
+      "question": "Thuốc Ibuprofen và Paracetamol có cơ chế tác dụng khác nhau như thế nào và khi nào nên sử dụng mỗi loại?",
+      "answer": "Ibuprofen và Paracetamol có cơ chế tác dụng khác nhau: Ibuprofen là thuốc kháng viêm không steroid (NSAIDs), ức chế enzyme cyclooxygenase (COX) làm giảm tổng hợp prostaglandin, có tác dụng giảm đau, hạ sốt và kháng viêm. Paracetamol có cơ chế chưa hoàn toàn rõ ràng, được cho là ức chế COX-3 ở hệ thần kinh trung ương, có tác dụng giảm đau và hạ sốt nhưng không có tác dụng kháng viêm đáng kể. Nên sử dụng Paracetamol khi: (1) Sốt do virus; (2) Đau nhẹ đến trung bình; (3) Bệnh nhân có vấn đề về dạ dày như loét, trào ngược; (4) Phụ nữ mang thai; (5) Trẻ em bị cúm hoặc thủy đậu. Nên sử dụng Ibuprofen khi: (1) Đau có tính chất viêm (viêm khớp, đau kinh); (2) Bệnh nhân không đáp ứng với Paracetamol; (3) Cần tác dụng kháng viêm; (4) Không có vấn đề về dạ dày hoặc thận."
+    },
+    {
+      "question": "Thuốc đông y Hoàng Liên có thành phần chính là gì và được sử dụng trong những trường hợp nào?",
+      "answer": "Hoàng Liên (Coptis chinensis) có thành phần chính là berberin, coptisine, palmatine, và các alkaloid khác. Theo y học cổ truyền, Hoàng Liên có tính vị đắng, tính hàn, vào các kinh tâm, can, vị, đại tràng và bàng quang. Thuốc được sử dụng trong các trường hợp: (1) Viêm dạ dày cấp và mạn tính, nhiễm khuẩn đường ruột; (2) Tiêu chảy do nhiễm khuẩn; (3) Nhiệt độc sinh mụn nhọt, lở loét; (4) Viêm gan, viêm túi mật; (5) Viêm kết mạc, đau mắt đỏ; (6) Các chứng bệnh do thấp nhiệt, hỏa độc gây ra. Trong y học hiện đại, các nghiên cứu cho thấy Hoàng Liên có tác dụng kháng khuẩn, kháng viêm, hạ đường huyết và bảo vệ gan. Tuy nhiên, cần thận trọng khi sử dụng cho phụ nữ mang thai, người suy nhược và người có tính hàn."
+    },
+    {
+      "question": "Thuốc Losartan có tác dụng phụ gì và có thể tương tác với những thuốc nào?",
+      "answer": "Thuốc Losartan (thuộc nhóm đối kháng thụ thể angiotensin II - ARB) có thể gây các tác dụng phụ như: (1) Hạ huyết áp, đặc biệt khi bắt đầu điều trị; (2) Tăng kali máu; (3) Suy thận cấp, đặc biệt ở bệnh nhân hẹp động mạch thận; (4) Chóng mặt, đau đầu; (5) Ho (ít gặp hơn so với thuốc nhóm ACEi); (6) Hiếm gặp: phù mạch, rối loạn chức năng gan. Losartan có thể tương tác với các thuốc: (1) Thuốc lợi tiểu giữ kali, bổ sung kali, thuốc ức chế ACE làm tăng nguy cơ tăng kali máu; (2) Thuốc chống viêm không steroid (NSAIDs) làm giảm tác dụng hạ áp và tăng nguy cơ suy thận; (3) Lithium: tăng nồng độ lithium trong máu gây ngộ độc; (4) Aliskiren: không nên phối hợp ở bệnh nhân đái tháo đường hoặc suy thận; (5) Rifampicin và một số thuốc cảm ứng CYP3A4 khác có thể làm giảm hiệu quả của Losartan."
+    },
+    {
+      "question": "Tại sao một số nguyên liệu dược phẩm yêu cầu phải cấp phép nhập khẩu và quy trình cấp phép như thế nào?",
+      "answer": "Một số nguyên liệu dược phẩm yêu cầu phải cấp phép nhập khẩu vì: (1) Thuộc danh mục chất bị kiểm soát đặc biệt (gây nghiện, hướng thần, tiền chất); (2) Có nguy cơ lạm dụng cao; (3) Theo quy định của công ước quốc tế; (4) Có thể sử dụng sai mục đích vào hoạt động phi pháp. Quy trình cấp phép nhập khẩu bao gồm: (1) Doanh nghiệp nộp hồ sơ đề nghị cấp phép nhập khẩu tại Cục Quản lý Dược; (2) Hồ sơ bao gồm đơn hàng nhập khẩu, giấy phép kinh doanh, giấy chứng nhận đủ điều kiện kinh doanh, hợp đồng mua bán, giấy chứng nhận GMP của cơ sở sản xuất; (3) Cục Quản lý Dược thẩm định hồ sơ trong vòng 15 ngày làm việc; (4) Nếu đạt yêu cầu, doanh nghiệp được cấp giấy phép nhập khẩu có giá trị trong 1 năm; (5) Sau khi nhập khẩu, doanh nghiệp phải báo cáo việc sử dụng nguyên liệu định kỳ."
+    },
+    {
+      "question": "Sự khác biệt giữa thuốc Generic và thuốc Biệt dược gốc là gì?",
+      "answer": "Thuốc Generic và thuốc Biệt dược gốc (Original/Innovator) có những khác biệt sau: (1) Nghiên cứu và phát triển: Biệt dược gốc là thuốc mới được phát triển từ đầu qua quá trình nghiên cứu dài và tốn kém, trong khi thuốc Generic được sản xuất sau khi bằng sáng chế của biệt dược gốc hết hạn; (2) Bằng sáng chế: Biệt dược gốc được bảo hộ bằng sáng chế (thường 20 năm), còn thuốc Generic không có; (3) Giá thành: Thuốc Generic thường rẻ hơn 20-80% so với biệt dược gốc; (4) Thử nghiệm: Biệt dược gốc phải trải qua đầy đủ các thử nghiệm lâm sàng về an toàn và hiệu quả, trong khi thuốc Generic chỉ cần chứng minh tương đương sinh học với biệt dược gốc; (5) Tên thuốc: Biệt dược gốc thường có tên thương mại riêng, còn thuốc Generic thường dùng tên hoạt chất hoặc tên thương mại khác; (6) Về mặt điều trị: Cả hai loại đều phải đảm bảo hiệu quả điều trị tương đương nhau theo quy định."
+    },
+    {
+      "question": "Vì sao tá dược Stearate Magnesi được sử dụng phổ biến trong sản xuất viên nén và có những tác dụng phụ nào cần lưu ý?",
+      "answer": "Stearate Magnesi (Magnesium Stearate) được sử dụng phổ biến trong sản xuất viên nén vì: (1) Tác dụng bôi trơn giúp thuốc không dính vào khuôn dập viên, tăng hiệu quả sản xuất; (2) Tác dụng trượt làm cho hỗn hợp bột chảy đều vào khuôn dập viên; (3) Chống dính, ngăn các thành phần của viên thuốc dính vào nhau; (4) Ổn định và ít phản ứng với các thành phần khác trong công thức; (5) Hiệu quả ở nồng độ thấp, thường chỉ cần 0.25-1% trong công thức. Các tác dụng phụ cần lưu ý: (1) Có thể làm chậm sự phân rã và hòa tan của viên thuốc nếu sử dụng quá nhiều (>1%); (2) Một số nghiên cứu cho thấy có thể ảnh hưởng đến sinh khả dụng của một số thuốc nhạy cảm; (3) Hiếm gặp phản ứng dị ứng ở người nhạy cảm; (4) Có thể ảnh hưởng đến sự ổn định của một số thuốc như aspirin, một số vitamin tan trong nước."
+    },
+    {
+      "question": "Thuốc Carbamazepine được sử dụng điều trị những bệnh gì và cần theo dõi những gì khi sử dụng?",
+      "answer": "Thuốc Carbamazepine được sử dụng điều trị: (1) Động kinh, đặc biệt là động kinh cục bộ và động kinh toàn thể thứ phát; (2) Đau dây thần kinh tam thoa; (3) Đau dây thần kinh đái tháo đường; (4) Rối loạn lưỡng cực (ổn định tâm trạng); (5) Hội chứng cai rượu. Khi sử dụng thuốc cần theo dõi: (1) Công thức máu đầy đủ trước khi bắt đầu điều trị và định kỳ sau đó (có thể gây giảm bạch cầu, giảm tiểu cầu); (2) Chức năng gan (tăng men gan); (3) Nồng độ Natri trong máu (có thể gây hạ Natri máu); (4) Nồng độ thuốc trong máu để điều chỉnh liều phù hợp (khoảng điều trị hẹp); (5) Các dấu hiệu phản ứng quá mẫn nghiêm trọng như hội chứng Stevens-Johnson, hội chứng Lyell; (6) Tương tác thuốc với nhiều thuốc khác do Carbamazepine cảm ứng enzyme CYP450."
+    },
+    {
+      "question": "Tại sao thuốc Methylprednisolone được ưa chuộng hơn Prednisolone trong một số trường hợp điều trị?",
+      "answer": "Methylprednisolone được ưa chuộng hơn Prednisolone trong một số trường hợp vì: (1) Tác dụng kháng viêm mạnh hơn khoảng 1.25 lần so với Prednisolone ở cùng liều lượng; (2) Tác dụng giữ muối và nước thấp hơn, giảm nguy cơ phù và tăng huyết áp; (3) Thời gian bán thải sinh học ngắn hơn (12-36 giờ so với 18-36 giờ), nên dễ kiểm soát khi cần ngừng thuốc; (4) Hiệu quả cao hơn trong điều trị viêm tủy sống cấp, sốc phản vệ nặng, và các tình trạng viêm cấp tính nặng; (5) Có dạng tiêm methylprednisolone acetate tác dụng kéo dài cho phép tiêm nội khớp với hiệu quả kéo dài hơn; (6) Phân bố vào hệ thần kinh trung ương tốt hơn nên được ưa chuộng trong điều trị các tình trạng viêm não, màng não. Tuy nhiên, chi phí điều trị bằng Methylprednisolone thường cao hơn so với Prednisolone."
+    },
+    {
+      "question": "Thuốc chống đông máu trực tiếp (DOAC) có ưu điểm gì so với Warfarin truyền thống?",
+      "answer": "Thuốc chống đông máu trực tiếp (DOAC) như Rivaroxaban, Apixaban, Dabigatran có nhiều ưu điểm so với Warfarin: (1) Không cần theo dõi INR thường xuyên, giúp bệnh nhân thuận tiện hơn; (2) Ít tương tác với thực phẩm, không cần hạn chế chế độ ăn; (3) Ít tương tác thuốc hơn so với Warfarin; (4) Khởi phát tác dụng nhanh (1-4 giờ so với 72-96 giờ của Warfarin) và thời gian bán thải ngắn; (5) Liều cố định, không cần điều chỉnh liều thường xuyên; (6) Nguy cơ xuất huyết nội sọ thấp hơn; (7) Không cần liều nạp khi bắt đầu điều trị; (8) Hiệu quả và an toàn có thể dự đoán tốt hơn. Tuy nhiên, DOAC cũng có nhược điểm như chi phí cao hơn, không thể đảo ngược tác dụng nhanh chóng trong trường hợp cấp cứu (trừ Dabigatran có thuốc đối kháng là Idarucizumab), và không phù hợp cho bệnh nhân suy thận nặng."
+    },
+    {
+      "question": "Đăng ký thuốc mới tại Việt Nam cần những tài liệu gì và quy trình đăng ký như thế nào?",
+      "answer": "Đăng ký thuốc mới tại Việt Nam cần những tài liệu sau: (1) Đơn và tờ khai đăng ký thuốc; (2) Giấy chứng nhận sản phẩm dược (CPP); (3) Hồ sơ hành chính (giấy phép thành lập doanh nghiệp, giấy chứng nhận GMP); (4) Hồ sơ kỹ thuật theo định dạng ACTD gồm: thành phần, quy trình sản xuất, tiêu chuẩn chất lượng, độ ổn định, dữ liệu tiền lâm sàng và lâm sàng; (5) Mẫu nhãn và tờ hướng dẫn sử dụng; (6) Mẫu thuốc. Quy trình đăng ký bao gồm: (1) Nộp hồ sơ tại Cục Quản lý Dược; (2) Thẩm định sơ bộ trong 15 ngày làm việc; (3) Thẩm định chuyên môn trong 180 ngày đối với thuốc mới, 90 ngày đối với thuốc generic; (4) Họp hội đồng tư vấn cấp số đăng ký; (5) Cấp số đăng ký có hiệu lực 5 năm; (6) Công bố thuốc được cấp số đăng ký trên Cổng thông tin điện tử của Cục Quản lý Dược. Thuốc mới phải có dữ liệu an toàn, hiệu quả từ thử nghiệm lâm sàng ở nước ngoài hoặc tại Việt Nam."
+    },
+    {
+      "question": "Điều gì khiến một số thuốc được phân loại là thuốc kê đơn và một số thuốc là thuốc không kê đơn?",
+      "answer": "Các yếu tố khiến một thuốc được phân loại là thuốc kê đơn (Rx) gồm: (1) Có tác dụng phụ nghiêm trọng cần theo dõi y tế; (2) Có nguy cơ lạm dụng, nghiện hoặc phụ thuộc; (3) Dùng để điều trị các bệnh cần chẩn đoán và theo dõi y tế; (4) Là thuốc mới với dữ liệu an toàn còn hạn chế; (5) Là thuốc tiêm hoặc dùng đường tiêm; (6) Cần điều chỉnh liều cẩn thận. Một thuốc được phân loại là thuốc không kê đơn (OTC) khi: (1) Có lịch sử sử dụng an toàn; (2) Có tác dụng phụ nhẹ và có thể dự đoán được; (3) Người bệnh có thể tự chẩn đoán triệu chứng; (4) Người bệnh có thể tự theo dõi đáp ứng điều trị; (5) Không cần điều chỉnh liều phức tạp; (6) Nguy cơ lạm dụng thấp; (7) Không tương tác nghiêm trọng với các thuốc phổ biến khác. Tại Việt Nam, việc phân loại dựa theo Thông tư của Bộ Y tế về danh mục thuốc không kê đơn."
+    },
+    {
+      "question": "Viêm loét dạ dày tá tràng nên sử dụng những loại thuốc nào và tại sao?",
+      "answer": "Viêm loét dạ dày tá tràng nên sử dụng các nhóm thuốc sau: (1) Thuốc ức chế bơm proton (PPI) như Omeprazole, Esomeprazole: ức chế bơm H+/K+-ATPase, giảm tiết acid mạnh và kéo dài, là lựa chọn hàng đầu; (2) Thuốc kháng H2 như Ranitidine, Famotidine: ức chế thụ thể H2, giảm tiết acid nhưng kém hiệu quả hơn PPI; (3) Thuốc kháng sinh khi có nhiễm H. pylori (phác đồ 3 thuốc hoặc 4 thuốc): thường là Amoxicillin, Clarithromycin, Metronidazole kết hợp với PPI; (4) Thuốc bảo vệ niêm mạc dạ dày (Sucralfate, Bismuth): tạo màng bảo vệ trên bề mặt ổ loét; (5) Thuốc tăng cường yếu tố bảo vệ niêm mạc (Misoprostol, Rebamipide): tăng tiết bicarbonate, mucin, tăng lưu lượng máu niêm mạc; (6) Các thuốc kháng acid (Aluminum hydroxide, Magnesium hydroxide): trung hòa acid dịch vị, giảm triệu chứng nhanh. Tùy theo nguyên nhân (do H. pylori, do NSAID, do stress) và mức độ bệnh mà chọn phác đồ phù hợp. Điều trị loại bỏ H. pylori giúp giảm tái phát và biến chứng."
+    },
+    {
+      "question": "Thuốc Omeprazole và Pantoprazole thuộc nhóm nào và có những điểm khác biệt gì?",
+      "answer": "Omeprazole và Pantoprazole đều thuộc nhóm thuốc ức chế bơm proton (Proton Pump Inhibitors - PPI), có tác dụng ức chế bơm H+/K+-ATPase ở tế bào thành dạ dày, làm giảm tiết acid dịch vị. Sự khác biệt giữa hai thuốc: (1) Cấu trúc hóa học: Pantoprazole có nhóm difluoromethoxy giúp ổn định hơn trong môi trường acid; (2) Chuyển hóa: Pantoprazole chuyển hóa ít qua CYP2C19 hơn so với Omeprazole nên ít tương tác thuốc hơn, đặc biệt với Clopidogrel; (3) Dược động học: Pantoprazole có sinh khả dụng cao hơn và ít bị ảnh hưởng bởi thức ăn; (4) Thời gian tác dụng: Pantoprazole có thời gian tác dụng kéo dài hơn, giúp kiểm soát acid tốt hơn vào ban đêm; (5) Hiệu quả ở người cao tuổi: Pantoprazole duy trì hiệu quả ổn định ở người cao tuổi không cần giảm liều; (6) Tác dụng phụ: Pantoprazole có tỷ lệ gây đau đầu, tiêu chảy thấp hơn so với Omeprazole; (7) Đường tiêm: Pantoprazole có dạng tiêm tĩnh mạch ổn định hơn, thường được ưa chuộng trong điều trị tại bệnh viện."
+    },
+    {
+      "question": "Thế nào là sinh khả dụng của thuốc? Các phương pháp để tăng sinh khả dụng của thuốc là gì?",
+      "answer": "Sinh khả dụng của thuốc là phần hoạt chất đi vào tuần hoàn hệ thống và tốc độ mà quá trình này diễn ra. Sinh khả dụng tuyệt đối là tỷ lệ % giữa AUC (diện tích dưới đường cong nồng độ-thời gian) khi dùng thuốc theo đường uống so với đường tĩnh mạch. Các phương pháp tăng sinh khả dụng: (1) Biến đổi hoạt chất: tạo muối của thuốc acid/base để tăng độ hòa tan (như tạo muối natri của acid, tạo muối hydrochloride của base); sử dụng phức chất (như phức cyclodextrin); tạo tiền dược (prodrug); (2) Biến đổi dạng bào chế: giảm kích thước hạt (vi hóa, nano hóa); sử dụng dạng tinh thể phù hợp; sử dụng dạng không tinh thể (amorphous); (3) Sử dụng các hệ phân phối thuốc mới: hệ phân tán rắn; vi/nano nhũ tương; liposome; micelle; (4) Thêm các tá dược tăng hấp thu: chất hoạt động bề mặt (surfactant) như Tween, SLS; chất ức chế P-glycoprotein; chất tạo phức với hoạt chất; (5) Biến đổi môi trường giải phóng thuốc: sử dụng tá dược ức chế enzyme chuyển hóa; điều chỉnh pH môi trường giải phóng thuốc; thay đổi đường dùng thuốc (như dùng qua màng nhầy, qua da)."
+    },
+    {
+      "question": "Thuốc Pregabalin được sử dụng trong điều trị những bệnh lý nào và cần lưu ý gì khi sử dụng cho bệnh nhân cao tuổi?",
+      "answer": "Pregabalin được sử dụng trong điều trị: (1) Đau thần kinh ngoại biên đái tháo đường; (2) Đau sau zona (Post-herpetic neuralgia); (3) Đau thần kinh trung ương; (4) Rối loạn lo âu toàn thể; (5) Động kinh cục bộ (như thuốc phụ trợ); (6) Hội chứng chân không yên; (7) Đau xơ cơ. Khi sử dụng cho bệnh nhân cao tuổi cần lưu ý: (1) Giảm liều do suy giảm chức năng thận (Pregabalin đào thải qua thận, cần điều chỉnh liều theo độ thanh thải creatinine); (2) Tăng nguy cơ té ngã và gãy xương do tác dụng an thần, chóng mặt, mất thăng bằng; (3) Tăng nguy cơ suy giảm nhận thức, đặc biệt khi dùng đồng thời với thuốc an thần khác; (4) Theo dõi dấu hiệu phù ngoại biên, đặc biệt ở bệnh nhân có suy tim; (5) Khởi đầu với liều thấp và tăng dần chậm hơn so với người trẻ; (6) Nguy cơ tương tác thuốc cao hơn do người cao tuổi thường dùng nhiều thuốc đồng thời; (7) Theo dõi dấu hiệu lạm dụng thuốc (Pregabalin có nguy cơ gây nghiện)."
+    },
+    {
+      "question": "Thuốc bisoprolol có cơ chế tác dụng như thế nào và được chỉ định trong những trường hợp nào?",
+      "answer": "Bisoprolol là thuốc chẹn beta-1 chọn lọc có cơ chế tác dụng: ức chế thụ thể beta-1 adrenergic ở tim, làm giảm nhịp tim, giảm sức co cơ tim, giảm huyết áp tâm thu và tâm trương, giảm tiêu thụ oxy của cơ tim. Ở liều cao, thuốc cũng có thể ức chế thụ thể beta-2 ở phế quản và mạch máu ngoại vi. Bisoprolol được chỉ định trong các trường hợp: (1) Tăng huyết áp: đặc biệt hiệu quả ở bệnh nhân tăng huyết áp có nhịp tim nhanh, cường giao cảm; (2) Đau thắt ngực ổn định: giảm tiêu thụ oxy cơ tim, ngăn ngừa cơn đau thắt ngực; (3) Suy tim mạn tính: giảm tỷ lệ tử vong và nhập viện ở bệnh nhân suy tim với phân suất tống máu giảm (HFrEF), sau khi đã ổn định với thuốc ức chế men chuyển; (4) Rối loạn nhịp tim: kiểm soát nhịp tim trong rung nhĩ, ngoại tâm thu thất; (5) Dự phòng thứ phát sau nhồi máu cơ tim: giảm tỷ lệ tử vong và tái nhồi máu. Bisoprolol được ưa chuộng vì độ chọn lọc cao với thụ thể beta-1, hiệu quả kéo dài 24 giờ với liều dùng một lần mỗi ngày."
+    }
+  ,
+    {
+      "question": "Thuốc sertraline được sử dụng trong điều trị những rối loạn tâm thần nào và có những tác dụng phụ gì?",
+      "answer": "Thuốc Sertraline (thuộc nhóm ức chế tái hấp thu serotonin chọn lọc - SSRI) được sử dụng trong điều trị: (1) Rối loạn trầm cảm: cả trầm cảm cấp và duy trì, ngăn ngừa tái phát; (2) Rối loạn lo âu lan tỏa; (3) Rối loạn hoảng sợ có hoặc không kèm chứng sợ khoảng trống; (4) Rối loạn ám ảnh cưỡng chế (OCD); (5) Rối loạn stress sau sang chấn (PTSD); (6) Rối loạn lo âu xã hội (SAD); (7) Rối loạn khí sắc trước kinh nguyệt (PMDD). Các tác dụng phụ thường gặp: (1) Tiêu hóa: buồn nôn, tiêu chảy, khó tiêu, đau bụng, táo bón; (2) Thần kinh: đau đầu, mất ngủ hoặc buồn ngủ, chóng mặt, run; (3) Tình dục: rối loạn chức năng tình dục như giảm ham muốn, rối loạn cương dương, khó đạt cực khoái; (4) Tâm thần: bồn chồn, lo lắng (đặc biệt trong tuần đầu điều trị); (5) Hiếm gặp nhưng nghiêm trọng: hội chứng serotonin (khi dùng kết hợp với thuốc tăng serotonin khác), giảm natri máu, tăng nguy cơ chảy máu, đặc biệt khi dùng với thuốc chống đông hoặc NSAID."
+    },
+    {
+      "question": "Công thức bào chế viên nén thường gồm những thành phần nào và mỗi thành phần có vai trò gì?",
+      "answer": "Công thức bào chế viên nén thường gồm các thành phần: (1) Hoạt chất: thành phần có tác dụng điều trị; (2) Chất độn: tăng thể tích viên thuốc, đảm bảo kích thước phù hợp (như lactose, microcrystalline cellulose, tinh bột); (3) Chất dính: kết dính các thành phần trong quá trình tạo hạt (như povidone, hydroxypropyl methylcellulose); (4) Chất phân rã: giúp viên thuốc nhanh chóng phân rã trong môi trường dịch tiêu hóa (như sodium starch glycolate, croscarmellose sodium); (5) Chất trượt: cải thiện khả năng chảy của bột trong quá trình dập viên (như silicon dioxide, talc); (6) Chất bôi trơn: giảm ma sát giữa viên thuốc và khuôn dập (như magnesium stearate, sodium stearyl fumarate); (7) Chất làm ẩm: tăng tốc độ thấm ướt của viên thuốc (như sodium lauryl sulfate); (8) Chất màu: tạo màu sắc nhận diện (như oxides sắt, pigments); (9) Chất tạo ngọt/hương liệu: cải thiện mùi vị (như saccharin, mannitol, hương liệu); (10) Chất bao phim: bảo vệ thuốc khỏi môi trường, che đắng, kiểm soát giải phóng, tạo nhận diện (như hydroxypropyl methylcellulose, polyethylene glycol)."
+    },{
+        "question": "Thuốc Paracetamol Stada 500mg có số đăng ký nào và hãng sản xuất là gì?",
+        "answer": "Thuốc Paracetamol Stada 500mg có số đăng ký VD-12345-08 và được sản xuất bởi hãng Stada-VN tại Việt Nam."
+      },
+      {
+        "question": "Hoạt chất chính của thuốc Amoxicillin 500mg là gì và có dạng bào chế như thế nào?",
+        "answer": "Hoạt chất chính của thuốc Amoxicillin 500mg là Amoxicillin trihydrate, được bào chế dưới dạng viên nang cứng."
+      },
+      {
+        "question": "Thuốc Augmentin 625mg có tuổi thọ bao lâu và cách đóng gói như thế nào?",
+        "answer": "Thuốc Augmentin 625mg có tuổi thọ 36 tháng kể từ ngày sản xuất. Thuốc được đóng gói trong vỉ nhôm-PVC, hộp 2 vỉ x 7 viên."
+      },
+      {
+        "question": "Tiêu chuẩn chất lượng của tá dược Lactose monohydrate là gì?",
+        "answer": "Tá dược Lactose monohydrate phải đạt tiêu chuẩn chất lượng Dược điển Mỹ (USP) hoặc Dược điển châu Âu (EP), đảm bảo độ tinh khiết và các chỉ tiêu về độ ẩm, kích thước hạt theo quy định."
+      },
+      {
+        "question": "Thuốc Mekophar Cephalexin 500mg có ngày hết hạn số đăng ký khi nào?",
+        "answer": "Thuốc Mekophar Cephalexin 500mg có số đăng ký VD-26578-17 với ngày hết hạn số đăng ký là ngày 15/08/2022."
+      },
+      {
+        "question": "Nguyên liệu Dexamethasone sodium phosphate của nhà sản xuất nào được phép sử dụng tại Việt Nam?",
+        "answer": "Nguyên liệu Dexamethasone sodium phosphate của các nhà sản xuất như Tianjin Tianyao Pharmaceuticals (Trung Quốc), Sanofi Chimie (Pháp), và Pfizer Manufacturing Belgium NV (Bỉ) được phép sử dụng tại Việt Nam theo công văn số 18721/QLD-CL."
+      },
+      {
+        "question": "Thuốc Bisoprolol 5mg của Công ty Dược phẩm Hà Tây có đường dùng như thế nào?",
+        "answer": "Thuốc Bisoprolol 5mg của Công ty Dược phẩm Hà Tây có đường dùng uống, dùng 1 lần mỗi ngày, tốt nhất là vào buổi sáng và có thể dùng trong hoặc ngoài bữa ăn."
+      },
+      {
+        "question": "Thuốc dạng tiêm Ceftriaxone 1g có yêu cầu bảo quản như thế nào?",
+        "answer": "Thuốc dạng tiêm Ceftriaxone 1g cần được bảo quản ở nhiệt độ dưới 30°C, tránh ánh sáng trực tiếp. Sau khi pha, dung dịch chỉ sử dụng trong vòng 24 giờ nếu bảo quản ở 2-8°C hoặc 6 giờ ở nhiệt độ phòng."
+      },
+      {
+        "question": "Nguyên liệu Artemisinin có phải là nguyên liệu kiểm soát đặc biệt không?",
+        "answer": "Không, nguyên liệu Artemisinin không thuộc danh mục nguyên liệu kiểm soát đặc biệt. Nó là một hoạt chất kháng sốt rét được chiết xuất từ cây Thanh Hao (Artemisia annua) và được sử dụng rộng rãi trong các thuốc điều trị sốt rét."
+      },
+      {
+        "question": "Thuốc Telfast 180mg sản xuất ở đâu và công ty đăng ký tại Việt Nam là công ty nào?",
+        "answer": "Thuốc Telfast 180mg được sản xuất tại Pháp bởi Sanofi Winthrop Industrie. Công ty đăng ký tại Việt Nam là Công ty TNHH Sanofi-Aventis Việt Nam, có địa chỉ tại Quận 7, TP. Hồ Chí Minh."
+      },
+      {
+        "question": "Vắc xin ComBE Five phòng những bệnh gì và được sản xuất ở nước nào?",
+        "answer": "Vắc xin ComBE Five là vắc xin 5 trong 1 phòng các bệnh Bạch hầu, Ho gà, Uốn ván, Viêm gan B và Hib (Haemophilus influenzae type b). Vắc xin này được sản xuất tại Ấn Độ bởi Công ty Biological E. Limited."
+      },
+      {
+        "question": "Tá dược Sodium starch glycolate có vai trò gì trong công thức bào chế thuốc viên nén?",
+        "answer": "Tá dược Sodium starch glycolate là một chất tá dược siêu rã, có vai trò giúp viên thuốc nhanh chóng phân rã khi tiếp xúc với dịch tiêu hóa, từ đó tăng cường khả năng hấp thu hoạt chất của thuốc vào cơ thể."
+      },
+      {
+        "question": "Thuốc Glucophage XR 500mg được cấp số đăng ký theo đợt cấp nào và có giá đăng ký là bao nhiêu?",
+        "answer": "Thuốc Glucophage XR 500mg được cấp số đăng ký VN-21354-18 theo đợt cấp thứ 195, có giá đăng ký là 85.000 VNĐ/hộp (30 viên)."
+      },
+      {
+        "question": "Nguyên liệu Methylparaben có cần phải có giấy phép nhập khẩu không?",
+        "answer": "Không, nguyên liệu Methylparaben không yêu cầu phải có giấy phép nhập khẩu. Nó là tá dược phổ biến dùng làm chất bảo quản trong nhiều dạng bào chế và không thuộc danh mục các chất kiểm soát đặc biệt hoặc yêu cầu cấp phép nhập khẩu."
+      },
+      {
+        "question": "Thuốc Lipitor 10mg có hoạt chất chính là gì và thuộc nhóm thuốc nào?",
+        "answer": "Thuốc Lipitor 10mg có hoạt chất chính là Atorvastatin calcium, thuộc nhóm thuốc statin (ức chế HMG-CoA reductase) dùng để điều trị tăng cholesterol máu và phòng ngừa các bệnh tim mạch."
+      },
+      {
+        "question": "Thuốc Clopidogrel 75mg sản xuất tại Việt Nam có tiêu chuẩn chất lượng gì?",
+        "answer": "Thuốc Clopidogrel 75mg sản xuất tại Việt Nam có tiêu chuẩn chất lượng là TCCS (Tiêu chuẩn cơ sở), được xây dựng dựa trên các yêu cầu của Dược điển Việt Nam và tham khảo các dược điển quốc tế như BP, USP, EP."
+      },
+      {
+        "question": "Thuốc Esomeprazole 40mg dạng tiêm có đóng gói như thế nào?",
+        "answer": "Thuốc Esomeprazole 40mg dạng tiêm được đóng gói dưới dạng lọ bột đông khô màu trắng đến trắng ngà, kèm theo ống dung môi 5ml để pha tiêm. Mỗi hộp chứa 1 lọ thuốc và 1 ống dung môi, có hướng dẫn sử dụng chi tiết."
+      },
+      {
+        "question": "Thuốc Vỏ nang cứng số 0 làm từ gelatin có những tiêu chuẩn kỹ thuật nào cần đạt được?",
+        "answer": "Vỏ nang cứng số 0 làm từ gelatin cần đạt các tiêu chuẩn kỹ thuật: độ hòa tan (không quá 30 phút), hàm lượng nước (13-16%), hàm lượng dioxide lưu huỳnh (không quá 50 ppm), độ bền của nang (đạt theo quy định), và các chỉ tiêu về vi sinh vật (không có vi khuẩn gây bệnh)."
+      },
+      {
+        "question": "Công ty Sanofi Việt Nam có những sản phẩm thuốc nào đang lưu hành tại Việt Nam?",
+        "answer": "Công ty Sanofi Việt Nam hiện có nhiều sản phẩm thuốc đang lưu hành tại Việt Nam, bao gồm các thuốc nổi tiếng như: Telfast (fexofenadine), Claforan (cefotaxime), Plavix (clopidogrel), Taxotere (docetaxel), Lantus (insulin glargine), Lovenox (enoxaparin), Eloxatin (oxaliplatin), Lasix (furosemide), Flagyl (metronidazole) và nhiều thuốc khác."
+      },
+      {
+        "question": "Thuốc có chứa hoạt chất Pseudoephedrine có phải là thuốc kiểm soát đặc biệt không?",
+        "answer": "Có, các thuốc có chứa hoạt chất Pseudoephedrine là thuốc kiểm soát đặc biệt tại Việt Nam, thuộc danh mục thuốc hướng thần. Các thuốc này cần kê đơn và được quản lý chặt chẽ về việc mua bán, kê đơn và sử dụng để tránh lạm dụng."
+      },
+      {
+        "question": "Nguyên liệu Ephedrine hydrochloride có yêu cầu hồ sơ lâm sàng không và có phải nộp công văn cấp phép khi nhập khẩu không?",
+        "answer": "Nguyên liệu Ephedrine hydrochloride không yêu cầu hồ sơ lâm sàng riêng vì đã có dữ liệu lâm sàng từ trước. Tuy nhiên, nó là nguyên liệu kiểm soát đặc biệt thuộc danh mục tiền chất, nên bắt buộc phải có công văn cấp phép khi nhập khẩu theo quy định của Bộ Y tế và Cục Quản lý Dược Việt Nam."
+      },
+      {
+        "question": "Thuốc Loperamide 2mg có thể dùng cho trẻ em dưới 6 tuổi không?",
+        "answer": "Không, thuốc Loperamide 2mg không được khuyến cáo sử dụng cho trẻ em dưới 6 tuổi. Đối với trẻ em từ 6-12 tuổi cần dùng liều thấp hơn và có sự giám sát của bác sĩ. Thuốc này chủ yếu được chỉ định điều trị tiêu chảy cấp không đặc hiệu và tiêu chảy mạn tính ở người lớn và trẻ em trên 6 tuổi."
+      },
+      {
+        "question": "Thuốc Metformin 500mg dùng cho bệnh nhân có mức lọc cầu thận (eGFR) dưới 30 ml/phút/1,73m² có an toàn không?",
+        "answer": "Không, thuốc Metformin 500mg chống chỉ định ở bệnh nhân có mức lọc cầu thận (eGFR) dưới 30 ml/phút/1,73m². Với bệnh nhân có eGFR từ 30-45 ml/phút/1,73m², cần giảm liều và theo dõi chặt chẽ. Lý do là vì Metformin đào thải qua thận và có thể gây tích lũy dẫn đến nguy cơ nhiễm toan lactic ở bệnh nhân suy thận."
+      },
+      {
+        "question": "Thuốc Enalapril 5mg có những tác dụng phụ nghiêm trọng nào cần lưu ý?",
+        "answer": "Thuốc Enalapril 5mg có một số tác dụng phụ nghiêm trọng cần lưu ý bao gồm: phù mạch (phù Quincke), hạ huyết áp quá mức đặc biệt ở liều đầu tiên, suy thận cấp (đặc biệt ở bệnh nhân đã có vấn đề về thận), tăng kali máu, và phản ứng dị ứng. Đặc biệt chống chỉ định ở phụ nữ mang thai vì có thể gây quái thai."
+      },
+      {
+        "question": "Cơ sở sản xuất Stella Pharmaceutical Inc. ở đâu và sản xuất những loại thuốc nào cho thị trường Việt Nam?",
+        "answer": "Cơ sở sản xuất Stella Pharmaceutical Inc. có địa chỉ tại 156 Industrial Boulevard, New Jersey, Hoa Kỳ. Tại Việt Nam, họ cung cấp nhiều sản phẩm được phép lưu hành bao gồm thuốc kháng sinh nhóm quinolone (Levofloxacin, Ciprofloxacin), thuốc tim mạch (Valsartan, Losartan), và một số thuốc ức chế bơm proton (Pantoprazole, Omeprazole)."
+      },
+      {
+        "question": "Nguyên liệu Povidone K30 dùng trong công thức bào chế thuốc có tiêu chuẩn chất lượng như thế nào?",
+        "answer": "Nguyên liệu Povidone K30 dùng trong công thức bào chế thuốc phải đạt tiêu chuẩn chất lượng theo Dược điển Mỹ (USP) hoặc Dược điển châu Âu (EP). Các chỉ tiêu chất lượng chính bao gồm: hàm lượng nitrogen (11.5-12.8%), độ ẩm (≤5%), tro sulfate (≤0.1%), aldehyde (≤0.05%), và giới hạn về kim loại nặng (≤10 ppm)."
+      },
+      {
+        "question": "Thuốc Domperidon 10mg có chỉ định điều trị bệnh gì và liều dùng như thế nào?",
+        "answer": "Thuốc Domperidon 10mg được chỉ định điều trị các triệu chứng buồn nôn và nôn cấp tính, đầy hơi, khó tiêu và trào ngược dạ dày-thực quản. Liều dùng thông thường cho người lớn và trẻ em trên 12 tuổi là 10mg, uống 3 lần mỗi ngày trước bữa ăn, không quá 30mg/ngày và không nên dùng quá 7 ngày."
+      },
+      {
+        "question": "Tá dược Sodium lauryl sulfate được sử dụng với mục đích gì trong công thức bào chế thuốc?",
+        "answer": "Tá dược Sodium lauryl sulfate (SLS) được sử dụng trong công thức bào chế thuốc với mục đích làm chất hoạt động bề mặt (surfactant). Nó giúp tăng khả năng hòa tan của các hoạt chất khó tan trong nước, cải thiện độ ướt của thuốc, làm tăng sinh khả dụng của thuốc, và đôi khi được dùng làm chất nhũ hóa trong các dạng bào chế như kem, thuốc mỡ."
+      },
+      {
+        "question": "Hãng sản xuất Novartis có những nhà máy sản xuất thuốc nào được cấp phép tại Việt Nam?",
+        "answer": "Hãng Novartis có một số nhà máy sản xuất thuốc được cấp phép tại Việt Nam, bao gồm: Novartis Pharma Stein AG (Thụy Sĩ), Novartis Pharma Productions GmbH (Đức), Novartis Singapore Pharmaceutical Manufacturing Pte. Ltd (Singapore), và Novartis Farmacéutica S.A (Tây Ban Nha). Các nhà máy này được công nhận đạt tiêu chuẩn GMP và được phép sản xuất thuốc nhập khẩu vào Việt Nam."
+      },
+      {
+        "question": "Thuốc tiêm Ceftazidime 1g có chỉ định điều trị những bệnh nhiễm khuẩn nào?",
+        "answer": "Thuốc tiêm Ceftazidime 1g được chỉ định điều trị nhiều loại nhiễm khuẩn do vi khuẩn nhạy cảm gây ra, bao gồm: nhiễm khuẩn đường hô hấp dưới (viêm phổi, viêm phế quản), nhiễm khuẩn tai-mũi-họng, nhiễm khuẩn da và mô mềm, nhiễm khuẩn tiết niệu, viêm phúc mạc, viêm màng não, nhiễm khuẩn huyết, và đặc biệt hiệu quả với nhiễm khuẩn do Pseudomonas aeruginosa."
+      },
+      {
+        "question": "Thuốc Olmesartan 20mg có phải là thuốc kê đơn không và có tương tác thuốc nào cần lưu ý?",
+        "answer": "Có, Olmesartan 20mg là thuốc kê đơn điều trị tăng huyết áp. Các tương tác thuốc cần lưu ý gồm: tăng nguy cơ hạ huyết áp khi phối hợp với các thuốc hạ áp khác; tăng nguy cơ tăng kali máu khi dùng với thuốc lợi tiểu giữ kali, các chất bổ sung kali hoặc muối thay thế có chứa kali; và giảm hiệu quả khi dùng cùng các thuốc chống viêm không steroid (NSAIDs)."
+      },
+      {
+        "question": "Thuốc Paracetamol Stada 500mg có số đăng ký nào và hãng sản xuất là gì?",
+        "answer": "Thuốc Paracetamol Stada 500mg có số đăng ký VD-12345-08 và được sản xuất bởi hãng Stada-VN tại Việt Nam."
+      },
+      {
+        "question": "Thuốc Amlodipine 5mg có cơ chế tác dụng như thế nào trong điều trị tăng huyết áp?",
+        "answer": "Amlodipine 5mg là thuốc chẹn kênh canxi, có cơ chế tác dụng là ức chế dòng canxi đi vào tế bào cơ trơn thành mạch, làm giãn mạch máu ngoại vi, giảm sức cản ngoại biên và hạ huyết áp. Thuốc cũng cải thiện lưu lượng máu đến cơ tim nên còn dùng điều trị đau thắt ngực."
+      },
+      {
+        "question": "Vắc xin Hexaxim phòng những bệnh gì và lịch tiêm chủng cho trẻ em như thế nào?",
+        "answer": "Vắc xin Hexaxim là vắc xin 6 trong 1 phòng các bệnh Bạch hầu, Ho gà, Uốn ván, Viêm gan B, Bại liệt và Hib (Haemophilus influenzae type b). Lịch tiêm chủng cho trẻ em gồm 3 mũi cơ bản: mũi 1 lúc 2 tháng tuổi, mũi 2 lúc 3 tháng tuổi, mũi 3 lúc 4 tháng tuổi, và một mũi nhắc lại vào tháng thứ 16-18."
+      },
+      {
+        "question": "Thuốc Telmisartan 80mg có thể được sử dụng cho bệnh nhân suy thận mạn không?",
+        "answer": "Thuốc Telmisartan 80mg có thể được sử dụng cho bệnh nhân suy thận mạn, nhưng cần thận trọng và theo dõi chức năng thận thường xuyên. Không cần điều chỉnh liều ở bệnh nhân suy thận nhẹ đến trung bình. Với bệnh nhân suy thận nặng, nên bắt đầu với liều thấp hơn (40mg) và theo dõi chặt chẽ nồng độ kali và creatinin huyết thanh."
+      },
+      {
+        "question": "Nguyên liệu Macrogol 6000 được sử dụng trong ngành dược phẩm với mục đích gì?",
+        "answer": "Nguyên liệu Macrogol 6000 (Polyethylene glycol 6000) được sử dụng trong ngành dược phẩm với nhiều mục đích như: làm chất độn và chất kết dính trong viên nén, chất mang trong hệ phân tán rắn để tăng sinh khả dụng của hoạt chất khó tan, chất làm trơn, chất làm mềm trong sản xuất viên nang cứng và mềm, và còn là thành phần trong các thuốc nhuận tràng thẩm thấu."
+      },
+      {
+        "question": "Hoạt chất chính của thuốc Amoxicillin 500mg là gì và có dạng bào chế như thế nào?",
+        "answer": "Hoạt chất chính của thuốc Amoxicillin 500mg là Amoxicillin trihydrate, được bào chế dưới dạng viên nang cứng."
+      },
+      {
+        "question": "Thuốc Augmentin 625mg có tuổi thọ bao lâu và cách đóng gói như thế nào?",
+        "answer": "Thuốc Augmentin 625mg có tuổi thọ 36 tháng kể từ ngày sản xuất. Thuốc được đóng gói trong vỉ nhôm-PVC, hộp 2 vỉ x 7 viên."
+      },
+      {
+        "question": "Tiêu chuẩn chất lượng của tá dược Lactose monohydrate là gì?",
+        "answer": "Tá dược Lactose monohydrate phải đạt tiêu chuẩn chất lượng Dược điển Mỹ (USP) hoặc Dược điển châu Âu (EP), đảm bảo độ tinh khiết và các chỉ tiêu về độ ẩm, kích thước hạt theo quy định."
+      },
+      {
+        "question": "Thuốc Mekophar Cephalexin 500mg có ngày hết hạn số đăng ký khi nào?",
+        "answer": "Thuốc Mekophar Cephalexin 500mg có số đăng ký VD-26578-17 với ngày hết hạn số đăng ký là ngày 15/08/2022."
+      },
+      {
+        "question": "Nguyên liệu Dexamethasone sodium phosphate của nhà sản xuất nào được phép sử dụng tại Việt Nam?",
+        "answer": "Nguyên liệu Dexamethasone sodium phosphate của các nhà sản xuất như Tianjin Tianyao Pharmaceuticals (Trung Quốc), Sanofi Chimie (Pháp), và Pfizer Manufacturing Belgium NV (Bỉ) được phép sử dụng tại Việt Nam theo công văn số 18721/QLD-CL."
+      },
+      {
+        "question": "Thuốc Bisoprolol 5mg của Công ty Dược phẩm Hà Tây có đường dùng như thế nào?",
+        "answer": "Thuốc Bisoprolol 5mg của Công ty Dược phẩm Hà Tây có đường dùng uống, dùng 1 lần mỗi ngày, tốt nhất là vào buổi sáng và có thể dùng trong hoặc ngoài bữa ăn."
+      },
+      {
+        "question": "Thuốc dạng tiêm Ceftriaxone 1g có yêu cầu bảo quản như thế nào?",
+        "answer": "Thuốc dạng tiêm Ceftriaxone 1g cần được bảo quản ở nhiệt độ dưới 30°C, tránh ánh sáng trực tiếp. Sau khi pha, dung dịch chỉ sử dụng trong vòng 24 giờ nếu bảo quản ở 2-8°C hoặc 6 giờ ở nhiệt độ phòng."
+      },
+      {
+        "question": "Nguyên liệu Artemisinin có phải là nguyên liệu kiểm soát đặc biệt không?",
+        "answer": "Không, nguyên liệu Artemisinin không thuộc danh mục nguyên liệu kiểm soát đặc biệt. Nó là một hoạt chất kháng sốt rét được chiết xuất từ cây Thanh Hao (Artemisia annua) và được sử dụng rộng rãi trong các thuốc điều trị sốt rét."
+      },
+      {
+        "question": "Thuốc Telfast 180mg sản xuất ở đâu và công ty đăng ký tại Việt Nam là công ty nào?",
+        "answer": "Thuốc Telfast 180mg được sản xuất tại Pháp bởi Sanofi Winthrop Industrie. Công ty đăng ký tại Việt Nam là Công ty TNHH Sanofi-Aventis Việt Nam, có địa chỉ tại Quận 7, TP. Hồ Chí Minh."
+      },
+      {
+        "question": "Vắc xin ComBE Five phòng những bệnh gì và được sản xuất ở nước nào?",
+        "answer": "Vắc xin ComBE Five là vắc xin 5 trong 1 phòng các bệnh Bạch hầu, Ho gà, Uốn ván, Viêm gan B và Hib (Haemophilus influenzae type b). Vắc xin này được sản xuất tại Ấn Độ bởi Công ty Biological E. Limited."
+      },
+      {
+        "question": "Tá dược Sodium starch glycolate có vai trò gì trong công thức bào chế thuốc viên nén?",
+        "answer": "Tá dược Sodium starch glycolate là một chất tá dược siêu rã, có vai trò giúp viên thuốc nhanh chóng phân rã khi tiếp xúc với dịch tiêu hóa, từ đó tăng cường khả năng hấp thu hoạt chất của thuốc vào cơ thể."
+      },
+      {
+        "question": "Thuốc Glucophage XR 500mg được cấp số đăng ký theo đợt cấp nào và có giá đăng ký là bao nhiêu?",
+        "answer": "Thuốc Glucophage XR 500mg được cấp số đăng ký VN-21354-18 theo đợt cấp thứ 195, có giá đăng ký là 85.000 VNĐ/hộp (30 viên)."
+      },
+      {
+        "question": "Nguyên liệu Methylparaben có cần phải có giấy phép nhập khẩu không?",
+        "answer": "Không, nguyên liệu Methylparaben không yêu cầu phải có giấy phép nhập khẩu. Nó là tá dược phổ biến dùng làm chất bảo quản trong nhiều dạng bào chế và không thuộc danh mục các chất kiểm soát đặc biệt hoặc yêu cầu cấp phép nhập khẩu."
+      },
+      {
+        "question": "Thuốc Lipitor 10mg có hoạt chất chính là gì và thuộc nhóm thuốc nào?",
+        "answer": "Thuốc Lipitor 10mg có hoạt chất chính là Atorvastatin calcium, thuộc nhóm thuốc statin (ức chế HMG-CoA reductase) dùng để điều trị tăng cholesterol máu và phòng ngừa các bệnh tim mạch."
+      },
+      {
+        "question": "Thuốc Clopidogrel 75mg sản xuất tại Việt Nam có tiêu chuẩn chất lượng gì?",
+        "answer": "Thuốc Clopidogrel 75mg sản xuất tại Việt Nam có tiêu chuẩn chất lượng là TCCS (Tiêu chuẩn cơ sở), được xây dựng dựa trên các yêu cầu của Dược điển Việt Nam và tham khảo các dược điển quốc tế như BP, USP, EP."
+      },
+      {
+        "question": "Thuốc Esomeprazole 40mg dạng tiêm có đóng gói như thế nào?",
+        "answer": "Thuốc Esomeprazole 40mg dạng tiêm được đóng gói dưới dạng lọ bột đông khô màu trắng đến trắng ngà, kèm theo ống dung môi 5ml để pha tiêm. Mỗi hộp chứa 1 lọ thuốc và 1 ống dung môi, có hướng dẫn sử dụng chi tiết."
+      },
+      {
+        "question": "Thuốc Vỏ nang cứng số 0 làm từ gelatin có những tiêu chuẩn kỹ thuật nào cần đạt được?",
+        "answer": "Vỏ nang cứng số 0 làm từ gelatin cần đạt các tiêu chuẩn kỹ thuật: độ hòa tan (không quá 30 phút), hàm lượng nước (13-16%), hàm lượng dioxide lưu huỳnh (không quá 50 ppm), độ bền của nang (đạt theo quy định), và các chỉ tiêu về vi sinh vật (không có vi khuẩn gây bệnh)."
+      },
+      {
+        "question": "Công ty Sanofi Việt Nam có những sản phẩm thuốc nào đang lưu hành tại Việt Nam?",
+        "answer": "Công ty Sanofi Việt Nam hiện có nhiều sản phẩm thuốc đang lưu hành tại Việt Nam, bao gồm các thuốc nổi tiếng như: Telfast (fexofenadine), Claforan (cefotaxime), Plavix (clopidogrel), Taxotere (docetaxel), Lantus (insulin glargine), Lovenox (enoxaparin), Eloxatin (oxaliplatin), Lasix (furosemide), Flagyl (metronidazole) và nhiều thuốc khác."
+      },
+      {
+        "question": "Thuốc có chứa hoạt chất Pseudoephedrine có phải là thuốc kiểm soát đặc biệt không?",
+        "answer": "Có, các thuốc có chứa hoạt chất Pseudoephedrine là thuốc kiểm soát đặc biệt tại Việt Nam, thuộc danh mục thuốc hướng thần. Các thuốc này cần kê đơn và được quản lý chặt chẽ về việc mua bán, kê đơn và sử dụng để tránh lạm dụng."
+      },
+      {
+        "question": "Nguyên liệu Ephedrine hydrochloride có yêu cầu hồ sơ lâm sàng không và có phải nộp công văn cấp phép khi nhập khẩu không?",
+        "answer": "Nguyên liệu Ephedrine hydrochloride không yêu cầu hồ sơ lâm sàng riêng vì đã có dữ liệu lâm sàng từ trước. Tuy nhiên, nó là nguyên liệu kiểm soát đặc biệt thuộc danh mục tiền chất, nên bắt buộc phải có công văn cấp phép khi nhập khẩu theo quy định của Bộ Y tế và Cục Quản lý Dược Việt Nam."
+      },
+      {
+        "question": "Thuốc Loperamide 2mg có thể dùng cho trẻ em dưới 6 tuổi không?",
+        "answer": "Không, thuốc Loperamide 2mg không được khuyến cáo sử dụng cho trẻ em dưới 6 tuổi. Đối với trẻ em từ 6-12 tuổi cần dùng liều thấp hơn và có sự giám sát của bác sĩ. Thuốc này chủ yếu được chỉ định điều trị tiêu chảy cấp không đặc hiệu và tiêu chảy mạn tính ở người lớn và trẻ em trên 6 tuổi."
+      },
+      {
+        "question": "Thuốc Metformin 500mg dùng cho bệnh nhân có mức lọc cầu thận (eGFR) dưới 30 ml/phút/1,73m² có an toàn không?",
+        "answer": "Không, thuốc Metformin 500mg chống chỉ định ở bệnh nhân có mức lọc cầu thận (eGFR) dưới 30 ml/phút/1,73m². Với bệnh nhân có eGFR từ 30-45 ml/phút/1,73m², cần giảm liều và theo dõi chặt chẽ. Lý do là vì Metformin đào thải qua thận và có thể gây tích lũy dẫn đến nguy cơ nhiễm toan lactic ở bệnh nhân suy thận."
+      },
+      {
+        "question": "Thuốc Enalapril 5mg có những tác dụng phụ nghiêm trọng nào cần lưu ý?",
+        "answer": "Thuốc Enalapril 5mg có một số tác dụng phụ nghiêm trọng cần lưu ý bao gồm: phù mạch (phù Quincke), hạ huyết áp quá mức đặc biệt ở liều đầu tiên, suy thận cấp (đặc biệt ở bệnh nhân đã có vấn đề về thận), tăng kali máu, và phản ứng dị ứng. Đặc biệt chống chỉ định ở phụ nữ mang thai vì có thể gây quái thai."
+      },
+      {
+        "question": "Cơ sở sản xuất Stella Pharmaceutical Inc. ở đâu và sản xuất những loại thuốc nào cho thị trường Việt Nam?",
+        "answer": "Cơ sở sản xuất Stella Pharmaceutical Inc. có địa chỉ tại 156 Industrial Boulevard, New Jersey, Hoa Kỳ. Tại Việt Nam, họ cung cấp nhiều sản phẩm được phép lưu hành bao gồm thuốc kháng sinh nhóm quinolone (Levofloxacin, Ciprofloxacin), thuốc tim mạch (Valsartan, Losartan), và một số thuốc ức chế bơm proton (Pantoprazole, Omeprazole)."
+      },
+      {
+        "question": "Nguyên liệu Povidone K30 dùng trong công thức bào chế thuốc có tiêu chuẩn chất lượng như thế nào?",
+        "answer": "Nguyên liệu Povidone K30 dùng trong công thức bào chế thuốc phải đạt tiêu chuẩn chất lượng theo Dược điển Mỹ (USP) hoặc Dược điển châu Âu (EP). Các chỉ tiêu chất lượng chính bao gồm: hàm lượng nitrogen (11.5-12.8%), độ ẩm (≤5%), tro sulfate (≤0.1%), aldehyde (≤0.05%), và giới hạn về kim loại nặng (≤10 ppm)."
+      },
+      {
+        "question": "Thuốc Domperidon 10mg có chỉ định điều trị bệnh gì và liều dùng như thế nào?",
+        "answer": "Thuốc Domperidon 10mg được chỉ định điều trị các triệu chứng buồn nôn và nôn cấp tính, đầy hơi, khó tiêu và trào ngược dạ dày-thực quản. Liều dùng thông thường cho người lớn và trẻ em trên 12 tuổi là 10mg, uống 3 lần mỗi ngày trước bữa ăn, không quá 30mg/ngày và không nên dùng quá 7 ngày."
+      },
+      {
+        "question": "Tá dược Sodium lauryl sulfate được sử dụng với mục đích gì trong công thức bào chế thuốc?",
+        "answer": "Tá dược Sodium lauryl sulfate (SLS) được sử dụng trong công thức bào chế thuốc với mục đích làm chất hoạt động bề mặt (surfactant). Nó giúp tăng khả năng hòa tan của các hoạt chất khó tan trong nước, cải thiện độ ướt của thuốc, làm tăng sinh khả dụng của thuốc, và đôi khi được dùng làm chất nhũ hóa trong các dạng bào chế như kem, thuốc mỡ."
+      },
+      {
+        "question": "Hãng sản xuất Novartis có những nhà máy sản xuất thuốc nào được cấp phép tại Việt Nam?",
+        "answer": "Hãng Novartis có một số nhà máy sản xuất thuốc được cấp phép tại Việt Nam, bao gồm: Novartis Pharma Stein AG (Thụy Sĩ), Novartis Pharma Productions GmbH (Đức), Novartis Singapore Pharmaceutical Manufacturing Pte. Ltd (Singapore), và Novartis Farmacéutica S.A (Tây Ban Nha). Các nhà máy này được công nhận đạt tiêu chuẩn GMP và được phép sản xuất thuốc nhập khẩu vào Việt Nam."
+      },
+      {
+        "question": "Tá dược Microcrystalline cellulose (MCC) có những loại nào thường được sử dụng trong công nghệ bào chế và có đặc tính gì khác nhau?",
+        "answer": "Tá dược Microcrystalline cellulose (MCC) có nhiều loại thường được sử dụng trong công nghệ bào chế như: MCC PH101 (kích thước hạt 50μm, dùng cho dạng bào chế viên nén ướt), MCC PH102 (kích thước hạt 100μm, phù hợp với dạng bào chế viên nén trực tiếp), MCC PH105 (kích thước hạt 20μm, dùng cho viên nén có hàm lượng hoạt chất thấp), MCC PH200 (kích thước hạt 180μm, tăng độ trôi chảy). Các loại MCC khác nhau về kích thước hạt, độ ẩm, tỷ trọng, và độ trôi chảy."
+      },
+      {
+        "question": "Thuốc gốc (generic) và thuốc phát minh (biệt dược gốc) có những khác biệt chính nào?",
+        "answer": "Thuốc gốc (generic) và thuốc phát minh (biệt dược gốc) có những khác biệt chính là: thuốc phát minh được phát triển đầu tiên bởi công ty nghiên cứu và có bằng sáng chế bảo hộ (thường 20 năm), giá thành cao hơn; còn thuốc generic được sản xuất sau khi hết hạn bằng sáng chế, có cùng hoạt chất, hàm lượng, dạng bào chế và sinh khả dụng tương đương với thuốc phát minh, nhưng giá thành thấp hơn nhiều. Tại Việt Nam, thuốc generic phải đạt tiêu chuẩn tương đương sinh học với thuốc phát minh theo quy định của Bộ Y tế."
+      },
+      {
+        "question": "Thuốc Losartan potassium 50mg của công ty Traphaco có chỉ định và liều dùng như thế nào?",
+        "answer": "Thuốc Losartan potassium 50mg của công ty Traphaco được chỉ định điều trị tăng huyết áp, bảo vệ thận ở bệnh nhân đái tháo đường type 2 có protein niệu, và điều trị suy tim khi không dung nạp thuốc ức chế men chuyển (ACEIs). Liều dùng điều trị tăng huyết áp thông thường là 50mg/ngày (có thể tăng lên 100mg/ngày nếu cần), dùng 1 lần/ngày. Với bệnh thận đái tháo đường, liều khởi đầu 50mg/ngày và có thể tăng lên 100mg/ngày tùy đáp ứng huyết áp."
+      },
+      {
+        "question": "Hàm lượng của thuốc Ambroxol được phân loại như thế nào và mỗi dạng bào chế có chỉ định gì?",
+        "answer": "Thuốc Ambroxol có các hàm lượng và dạng bào chế: dạng viên 30mg hoặc 60mg dùng cho người lớn điều trị các bệnh phổi cấp và mạn tính với đờm nhầy; dạng siro 15mg/5ml dùng cho trẻ em từ 2-6 tuổi (5-10ml x 3 lần/ngày) và trẻ 6-12 tuổi (10ml x 2-3 lần/ngày); dạng tiêm 15mg/2ml dùng trong các trường hợp nặng hoặc không thể uống; dạng viên ngậm 20mg điều trị viêm họng và giảm đau họng. Thuốc có tác dụng long đờm và kích thích sản xuất surfactant phổi."
+      },
+      {
+        "question": "Thuốc tiêm Ceftazidime 1g có chỉ định điều trị những bệnh nhiễm khuẩn nào?",
+        "answer": "Thuốc tiêm Ceftazidime 1g được chỉ định điều trị nhiều loại nhiễm khuẩn do vi khuẩn nhạy cảm gây ra, bao gồm: nhiễm khuẩn đường hô hấp dưới (viêm phổi, viêm phế quản), nhiễm khuẩn tai-mũi-họng, nhiễm khuẩn da và mô mềm, nhiễm khuẩn tiết niệu, viêm phúc mạc, viêm màng não, nhiễm khuẩn huyết, và đặc biệt hiệu quả với nhiễm khuẩn do Pseudomonas aeruginosa."
+      },
+      {
+        "question": "Thuốc Olmesartan 20mg có phải là thuốc kê đơn không và có tương tác thuốc nào cần lưu ý?",
+        "answer": "Có, Olmesartan 20mg là thuốc kê đơn điều trị tăng huyết áp. Các tương tác thuốc cần lưu ý gồm: tăng nguy cơ hạ huyết áp khi phối hợp với các thuốc hạ áp khác; tăng nguy cơ tăng kali máu khi dùng với thuốc lợi tiểu giữ kali, các chất bổ sung kali hoặc muối thay thế có chứa kali; và giảm hiệu quả khi dùng cùng các thuốc chống viêm không steroid (NSAIDs)."
+      },
+      {
+        "question": "Nguyên liệu dược phẩm nhập khẩu từ Trung Quốc cần đáp ứng những tiêu chuẩn nào để được phép sử dụng tại Việt Nam?",
+        "answer": "Nguyên liệu dược phẩm nhập khẩu từ Trung Quốc để được phép sử dụng tại Việt Nam cần: có Giấy phép nhập khẩu từ Cục Quản lý Dược; có Giấy chứng nhận GMP của cơ sở sản xuất được Bộ Y tế Việt Nam thừa nhận; có Giấy chứng nhận phân tích chất lượng lô (COA); đạt tiêu chuẩn chất lượng theo Dược điển Việt Nam hoặc các dược điển quốc tế được công nhận; và có công văn cho phép sử dụng nguyên liệu làm thuốc từ Cục Quản lý Dược nếu thuộc danh mục kiểm soát đặc biệt."
+      },
+      {
+        "question": "Thuốc nhỏ mắt Tobramycin 0.3% có sử được cho phụ nữ mang thai và cho con bú không?",
+        "answer": "Thuốc nhỏ mắt Tobramycin 0.3% có thể sử dụng cho phụ nữ mang thai (thuộc nhóm B theo phân loại của FDA) khi thực sự cần thiết và lợi ích vượt trội hơn nguy cơ. Đối với phụ nữ đang cho con bú, lượng thuốc hấp thu vào máu sau khi nhỏ mắt rất thấp nên ít có khả năng ảnh hưởng đến trẻ bú mẹ. Tuy nhiên, nên thận trọng và tham khảo ý kiến bác sĩ trước khi sử dụng trong cả hai trường hợp."
+      },
+      {
+        "question": "Tá dược Hydroxypropyl methylcellulose (HPMC) được sử dụng cho mục đích gì trong công nghệ dược phẩm?",
+        "answer": "Tá dược Hydroxypropyl methylcellulose (HPMC) trong công nghệ dược phẩm được sử dụng làm: chất kết dính trong viên nén; chất tạo màng bao phim cho viên; chất tạo độ nhớt trong các dạng bào chế bán rắn và dung dịch; chất nền cho các hệ giải phóng kéo dài; chất thay thế cho gelatin trong vỏ nang cứng; dung dịch nhỏ mắt nhân tạo. HPMC có nhiều loại với độ nhớt khác nhau (K4M, K15M, K100M,...) để phù hợp với từng mục đích sử dụng."
+      },
+      {
+        "question": "Thuốc Omeprazole 20mg và Pantoprazole 40mg có điểm giống và khác nhau như thế nào?",
+        "answer": "Điểm giống nhau: Omeprazole 20mg và Pantoprazole 40mg đều thuộc nhóm ức chế bơm proton (PPI), có cơ chế tác dụng ức chế enzyme H+/K+ ATPase, làm giảm tiết acid dạ dày và dùng điều trị các bệnh liên quan đến acid như loét dạ dày-tá tràng, trào ngược dạ dày-thực quản. Điểm khác nhau: Pantoprazole ít tương tác thuốc hơn (chuyển hóa ít qua CYP2C19), ít bị ảnh hưởng bởi thức ăn, ổn định ở pH thấp hơn và có thời gian tác dụng dài hơn; trong khi Omeprazole có nhiều nghiên cứu lâm sàng hơn và thường rẻ hơn."
+      },
+      {
+        "question": "Nguyên liệu chiết xuất từ thảo dược Actiso (Cynara scolymus) có tác dụng dược lý gì và được dùng trong điều trị bệnh nào?",
+        "answer": "Nguyên liệu chiết xuất từ thảo dược Actiso (Cynara scolymus) có tác dụng dược lý chính là bảo vệ gan, lợi mật, hạ lipid máu và chống oxy hóa nhờ các thành phần cynarin, chlorogenic acid và flavonoid. Nguyên liệu này được dùng trong điều trị các bệnh về gan mật như viêm gan, gan nhiễm mỡ, sỏi mật; hỗ trợ điều trị rối loạn lipid máu; và các vấn đề tiêu hóa như khó tiêu, đầy hơi, buồn nôn. Tại Việt Nam, nhiều chế phẩm từ Actiso được đăng ký dưới dạng thuốc từ dược liệu hoặc thực phẩm bảo vệ sức khỏe."
+      },
+      {
+        "question": "Tiêu chuẩn GMP-WHO là gì và các cơ sở sản xuất thuốc tại Việt Nam phải đáp ứng những yêu cầu nào?",
+        "answer": "GMP-WHO (Good Manufacturing Practice - Thực hành sản xuất tốt theo tiêu chuẩn Tổ chức Y tế Thế giới) là bộ nguyên tắc và thủ tục nhằm đảm bảo thuốc được sản xuất đạt chất lượng nhất quán và kiểm soát theo tiêu chuẩn. Các cơ sở sản xuất thuốc tại Việt Nam phải đáp ứng: cơ sở vật chất và thiết bị phù hợp; nhân viên có trình độ chuyên môn được đào tạo GMP; hệ thống đảm bảo chất lượng toàn diện; quy trình sản xuất và kiểm soát chất lượng được thẩm định; hệ thống tài liệu đầy đủ; và phải được thanh tra, đánh giá định kỳ bởi Cục Quản lý Dược."
+      },
+      {
+        "question": "Thuốc Ciprofloxacin hydroclorid có cơ chế tác dụng như thế nào và phổ kháng khuẩn ra sao?",
+        "answer": "Thuốc Ciprofloxacin hydroclorid có cơ chế tác dụng là ức chế enzyme DNA gyrase và topoisomerase IV của vi khuẩn, ngăn cản sự tái tạo AND và dẫn đến tiêu diệt vi khuẩn. Phổ kháng khuẩn rộng, đặc biệt hiệu quả với nhiều vi khuẩn Gram âm như Escherichia coli, Klebsiella, Enterobacter, Pseudomonas aeruginosa; một số vi khuẩn Gram dương như Staphylococcus; và các vi khuẩn đặc biệt như Mycoplasma, Chlamydia, Legionella. Tuy nhiên, tình trạng kháng thuốc ngày càng tăng, đặc biệt với S. pneumoniae và một số chủng Pseudomonas."
+      },
+      {
+        "question": "Tá dược PEG 400 (Polyethylene glycol 400) được sử dụng trong những dạng bào chế nào của thuốc?",
+        "answer": "Tá dược PEG 400 (Polyethylene glycol 400) được sử dụng trong nhiều dạng bào chế như: dung môi cho thuốc tiêm và thuốc nhỏ mắt do khả năng hòa tan nhiều hoạt chất; chất nền cho thuốc mỡ và kem do đặc tính tạo độ ẩm và dễ thấm qua da; chất làm mềm trong sản xuất viên nang mềm; chất tạo độ nhớt trong dung dịch uống và hỗn dịch; dung môi trong hệ phân tán rắn để tăng sinh khả dụng của thuốc khó tan trong nước; và chất khâu mạch trong hệ cấu trúc nano."
+      }
+    ]

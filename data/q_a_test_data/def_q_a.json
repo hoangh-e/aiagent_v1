@@ -1,0 +1,240 @@
+[
+    {
+      "question": "Tên tá dược / vỏ nang là gì?",
+      "answer": "Tên tá dược / vỏ nang là thành phần không hoạt động trong thuốc, dùng để bảo vệ hoạt chất chính và giúp thuốc dễ dàng được sử dụng."
+    },
+    {
+      "question": "Tên thuốc chứa tá dược là gì?",
+      "answer": "Tên thuốc chứa tá dược là tên của thuốc bao gồm cả các tá dược và hoạt chất chính."
+    },
+    {
+      "question": "Ngày hết hiệu lực SĐK có ý nghĩa gì?",
+      "answer": "Ngày hết hiệu lực SĐK (Số đăng ký lưu hành) là thời điểm mà số đăng ký của thuốc không còn giá trị và thuốc không được phép lưu hành trên thị trường."
+    },
+    {
+      "question": "Cơ sở sản xuất thuốc có vai trò gì?",
+      "answer": "Cơ sở sản xuất thuốc là nơi chế tạo và đóng gói thuốc, đảm bảo thuốc được sản xuất theo đúng quy định và tiêu chuẩn chất lượng."
+    },
+    {
+      "question": "Công ty sản xuất thuốc có trách nhiệm gì?",
+      "answer": "Công ty sản xuất thuốc có trách nhiệm đảm bảo chất lượng sản phẩm, tuân thủ quy định pháp lý và tiêu chuẩn chất lượng trong quá trình sản xuất."
+    },
+    {
+      "question": "Thuốc có hồ sơ ACTD là gì?",
+      "answer": "Thuốc có hồ sơ ACTD (Active Pharmaceutical Ingredients) là thuốc có hồ sơ về nguyên liệu dược phẩm hoạt động, dùng để chứng minh tính an toàn và hiệu quả của thuốc."
+    },
+    {
+      "question": "Đặc điểm của dạng bào chế thuốc là gì?",
+      "answer": "Dạng bào chế thuốc là hình thức vật lý của thuốc, chẳng hạn như viên nén, viên nang, siro, dung dịch, v.v., nhằm đảm bảo hiệu quả điều trị và tiện lợi cho người sử dụng."
+    },
+    {
+      "question": "Ngày cấp SĐK là gì?",
+      "answer": "Ngày cấp SĐK là ngày mà cơ quan có thẩm quyền cấp phép thuốc được phép lưu hành trên thị trường."
+    },
+    {
+      "question": "Tiêu chuẩn chất lượng thuốc bao gồm những gì?",
+      "answer": "Tiêu chuẩn chất lượng thuốc bao gồm các yêu cầu về độ tinh khiết, hoạt chất, hàm lượng, độ bền, và các chỉ tiêu khác để đảm bảo thuốc an toàn và hiệu quả."
+    },
+    {
+      "question": "Hàm lượng hoạt chất chính của thuốc là gì?",
+      "answer": "Hàm lượng hoạt chất chính của thuốc là số lượng hoạt chất trong mỗi đơn vị thuốc, ảnh hưởng trực tiếp đến hiệu quả điều trị của thuốc."
+    },{
+      "question": "Số đăng ký lưu hành thuốc là gì?",
+      "answer": "Số đăng ký lưu hành thuốc là mã số duy nhất được cấp bởi cơ quan quản lý dược, chứng nhận rằng thuốc đã được kiểm tra và cấp phép để lưu hành trên thị trường."
+    },
+    {
+      "question": "Thuốc có dạng đóng gói nào phổ biến?",
+      "answer": "Thuốc có thể có nhiều dạng đóng gói khác nhau như vỉ, lọ, hộp, tuýp, giúp việc bảo quản và sử dụng thuốc trở nên dễ dàng và tiện lợi."
+    },
+    {
+      "question": "Đơn vị tính của thuốc là gì?",
+      "answer": "Đơn vị tính của thuốc là cách thức đo lường liều lượng thuốc, có thể là viên, lọ, tuýp, gram, mililit, tùy theo dạng thuốc."
+    },
+    {
+      "question": "Công ty đăng ký thuốc có trách nhiệm gì?",
+      "answer": "Công ty đăng ký thuốc chịu trách nhiệm về việc đăng ký thuốc với cơ quan chức năng, đảm bảo thuốc tuân thủ các quy định và tiêu chuẩn về chất lượng trước khi đưa ra thị trường."
+    },
+    {
+      "question": "Ngày hết hạn SĐK của thuốc có ảnh hưởng gì không?",
+      "answer": "Ngày hết hạn SĐK đánh dấu thời điểm mà thuốc không còn được phép lưu hành trên thị trường, và việc sử dụng thuốc sau ngày này có thể ảnh hưởng đến hiệu quả và an toàn của thuốc."
+    },
+    {
+      "question": "Thuốc có hồ sơ lâm sàng là gì?",
+      "answer": "Thuốc có hồ sơ lâm sàng là thuốc đã được kiểm chứng qua các nghiên cứu lâm sàng nhằm xác định tính hiệu quả và an toàn cho người sử dụng."
+    },
+    {
+      "question": "Tại sao phải kiểm soát đặc biệt đối với một số thuốc?",
+      "answer": "Một số thuốc cần kiểm soát đặc biệt do tính chất dược lý của chúng, có thể gây tác dụng phụ nghiêm trọng hoặc bị lạm dụng, ví dụ như thuốc chứa chất ma túy hoặc thuốc điều trị các bệnh nghiêm trọng."
+    },
+    {
+      "question": "Công ty sản xuất thuốc có trách nhiệm gì khi sản xuất thuốc?",
+      "answer": "Công ty sản xuất thuốc có trách nhiệm đảm bảo rằng tất cả các sản phẩm thuốc được sản xuất và kiểm tra theo các tiêu chuẩn chất lượng quốc gia và quốc tế để đảm bảo hiệu quả và an toàn cho người sử dụng."
+    },
+    {
+      "question": "Lý do sửa đổi hồ sơ thuốc là gì?",
+      "answer": "Lý do sửa đổi hồ sơ thuốc có thể bao gồm việc cập nhật thông tin mới về thành phần thuốc, hướng dẫn sử dụng, hoặc thay đổi trong quy trình sản xuất để đáp ứng các yêu cầu pháp lý hoặc cải thiện chất lượng sản phẩm."
+    },
+    {
+      "question": "Vai trò của hoạt chất chính trong thuốc là gì?",
+      "answer": "Hoạt chất chính là thành phần trong thuốc có tác dụng chính trong việc điều trị bệnh, giúp thuốc phát huy tác dụng chữa bệnh theo mục tiêu điều trị."
+    },
+  {
+    "question": "Phân loại thuốc có ý nghĩa gì?",
+    "answer": "Phân loại thuốc giúp xác định nhóm thuốc dựa trên tính chất, công dụng, hoặc cơ chế hoạt động. Việc phân loại này giúp bác sĩ dễ dàng kê đơn và kiểm soát việc sử dụng thuốc."
+  },
+  {
+    "question": "Đóng gói thuốc có ảnh hưởng đến chất lượng không?",
+    "answer": "Đóng gói thuốc rất quan trọng vì nó bảo vệ thuốc khỏi tác động của môi trường như độ ẩm, ánh sáng, và không khí, giúp duy trì hiệu quả và tuổi thọ của thuốc."
+  },
+  {
+    "question": "Giá đăng ký thuốc có được công khai không?",
+    "answer": "Giá đăng ký thuốc thường không được công khai rộng rãi, tuy nhiên các cơ quan chức năng có thể yêu cầu thông tin này khi có nhu cầu kiểm tra hoặc cấp phép."
+  },
+  {
+    "question": "Cơ sở sản xuất thuốc phải đáp ứng yêu cầu gì?",
+    "answer": "Cơ sở sản xuất thuốc phải tuân thủ các tiêu chuẩn GMP (Good Manufacturing Practice), đảm bảo quy trình sản xuất thuốc an toàn, hiệu quả và đạt chất lượng theo yêu cầu của cơ quan quản lý."
+  },
+  {
+    "question": "Hàm lượng hoạt chất trong thuốc có vai trò gì?",
+    "answer": "Hàm lượng hoạt chất trong thuốc quyết định đến liều dùng và hiệu quả điều trị. Nếu hàm lượng quá thấp hoặc quá cao, thuốc có thể không đạt hiệu quả điều trị hoặc gây ra tác dụng phụ."
+  },
+  {
+    "question": "Dạng bào chế thuốc có ảnh hưởng đến cách sử dụng không?",
+    "answer": "Dạng bào chế thuốc có ảnh hưởng đến cách thức sử dụng thuốc. Ví dụ, thuốc dạng viên nén có thể dễ uống hơn so với thuốc dạng lỏng, nhưng thuốc dạng lỏng lại dễ hấp thu hơn đối với một số bệnh nhân."
+  },
+  {
+    "question": "Số quyết định cấp phép thuốc có ý nghĩa gì?",
+    "answer": "Số quyết định cấp phép thuốc là số tham chiếu của quyết định cấp phép sản phẩm thuốc, đảm bảo thuốc đã được kiểm tra và chứng nhận bởi cơ quan quản lý."
+  },
+  {
+    "question": "Công văn đặc biệt đối với thuốc là gì?",
+    "answer": "Công văn đặc biệt là các văn bản pháp lý từ cơ quan chức năng yêu cầu hoặc cho phép một số điều kiện đặc biệt trong việc lưu hành thuốc, thường áp dụng đối với thuốc thuộc nhóm kiểm soát đặc biệt."
+  },
+  {
+    "question": "Ngày gia hạn SĐK có nghĩa là gì?",
+    "answer": "Ngày gia hạn SĐK là ngày mà số đăng ký lưu hành thuốc được gia hạn sau khi hết hạn, giúp thuốc tiếp tục được phép lưu hành trên thị trường trong một khoảng thời gian nhất định."
+  },
+  {
+    "question": "Sự thay đổi trong hồ sơ thuốc cần được thông báo như thế nào?",
+    "answer": "Sự thay đổi trong hồ sơ thuốc, chẳng hạn như thành phần, công thức, hoặc cách sử dụng, cần được thông báo và phê duyệt bởi cơ quan quản lý dược để đảm bảo thuốc vẫn đáp ứng các yêu cầu về chất lượng và an toàn."
+  },
+  
+    {
+      "question": "Phân loại thuốc có ý nghĩa gì?",
+      "answer": "Phân loại thuốc giúp xác định nhóm thuốc dựa trên tính chất, công dụng, hoặc cơ chế hoạt động. Việc phân loại này giúp bác sĩ dễ dàng kê đơn và kiểm soát việc sử dụng thuốc."
+    },
+    {
+      "question": "Đóng gói thuốc có ảnh hưởng đến chất lượng không?",
+      "answer": "Đóng gói thuốc rất quan trọng vì nó bảo vệ thuốc khỏi tác động của môi trường như độ ẩm, ánh sáng, và không khí, giúp duy trì hiệu quả và tuổi thọ của thuốc."
+    },
+    {
+      "question": "Giá đăng ký thuốc có được công khai không?",
+      "answer": "Giá đăng ký thuốc thường không được công khai rộng rãi, tuy nhiên các cơ quan chức năng có thể yêu cầu thông tin này khi có nhu cầu kiểm tra hoặc cấp phép."
+    },
+    {
+      "question": "Cơ sở sản xuất thuốc phải đáp ứng yêu cầu gì?",
+      "answer": "Cơ sở sản xuất thuốc phải tuân thủ các tiêu chuẩn GMP (Good Manufacturing Practice), đảm bảo quy trình sản xuất thuốc an toàn, hiệu quả và đạt chất lượng theo yêu cầu của cơ quan quản lý."
+    },
+    {
+      "question": "Hàm lượng hoạt chất trong thuốc có vai trò gì?",
+      "answer": "Hàm lượng hoạt chất trong thuốc quyết định đến liều dùng và hiệu quả điều trị. Nếu hàm lượng quá thấp hoặc quá cao, thuốc có thể không đạt hiệu quả điều trị hoặc gây ra tác dụng phụ."
+    },
+    {
+      "question": "Dạng bào chế thuốc có ảnh hưởng đến cách sử dụng không?",
+      "answer": "Dạng bào chế thuốc có ảnh hưởng đến cách thức sử dụng thuốc. Ví dụ, thuốc dạng viên nén có thể dễ uống hơn so với thuốc dạng lỏng, nhưng thuốc dạng lỏng lại dễ hấp thu hơn đối với một số bệnh nhân."
+    },
+    {
+      "question": "Số quyết định cấp phép thuốc có ý nghĩa gì?",
+      "answer": "Số quyết định cấp phép thuốc là số tham chiếu của quyết định cấp phép sản phẩm thuốc, đảm bảo thuốc đã được kiểm tra và chứng nhận bởi cơ quan quản lý."
+    },
+    {
+      "question": "Công văn đặc biệt đối với thuốc là gì?",
+      "answer": "Công văn đặc biệt là các văn bản pháp lý từ cơ quan chức năng yêu cầu hoặc cho phép một số điều kiện đặc biệt trong việc lưu hành thuốc, thường áp dụng đối với thuốc thuộc nhóm kiểm soát đặc biệt."
+    },
+    {
+      "question": "Ngày gia hạn SĐK có nghĩa là gì?",
+      "answer": "Ngày gia hạn SĐK là ngày mà số đăng ký lưu hành thuốc được gia hạn sau khi hết hạn, giúp thuốc tiếp tục được phép lưu hành trên thị trường trong một khoảng thời gian nhất định."
+    },
+    {
+      "question": "Sự thay đổi trong hồ sơ thuốc cần được thông báo như thế nào?",
+      "answer": "Sự thay đổi trong hồ sơ thuốc, chẳng hạn như thành phần, công thức, hoặc cách sử dụng, cần được thông báo và phê duyệt bởi cơ quan quản lý dược để đảm bảo thuốc vẫn đáp ứng các yêu cầu về chất lượng và an toàn."
+    },{
+      "question": "Hoạt chất nhóm kiểm soát là gì?",
+      "answer": "Hoạt chất nhóm kiểm soát là những chất có tác dụng mạnh và có thể gây nguy hiểm nếu không sử dụng đúng cách, vì vậy chúng thường được kiểm soát chặt chẽ hơn trong các quy trình sản xuất và phân phối thuốc."
+    },
+    {
+      "question": "Lý do không có công văn trong hồ sơ thuốc là gì?",
+      "answer": "Lý do không có công văn trong hồ sơ thuốc có thể là do thuốc không yêu cầu sự phê duyệt hoặc công văn từ cơ quan chức năng, hoặc do thuốc chưa được cấp phép đủ điều kiện để sản xuất hoặc lưu hành."
+    },
+    {
+      "question": "Công ty sản xuất nguyên liệu có vai trò gì trong ngành dược?",
+      "answer": "Công ty sản xuất nguyên liệu cung cấp các thành phần cơ bản dùng để chế tạo thuốc, giúp các công ty dược phẩm chế biến và sản xuất các sản phẩm thuốc hoàn chỉnh."
+    },
+    {
+      "question": "Phân loại thuốc có vai trò gì trong việc điều trị bệnh?",
+      "answer": "Phân loại thuốc giúp xác định loại bệnh và cách thức điều trị, từ đó các bác sĩ có thể lựa chọn loại thuốc phù hợp với tình trạng của bệnh nhân và nâng cao hiệu quả điều trị."
+    },
+    {
+      "question": "Thuốc có yêu cầu cấp phép nhập khẩu phải làm gì?",
+      "answer": "Thuốc có yêu cầu cấp phép nhập khẩu cần phải có hồ sơ đầy đủ và tuân thủ các quy định về nhập khẩu dược phẩm từ cơ quan quản lý dược phẩm quốc gia hoặc khu vực, để đảm bảo chất lượng và an toàn của thuốc khi nhập khẩu vào quốc gia."
+    },
+    {
+      "question": "Trạng thái thuốc được coi là 'Đang hoạt động' có ý nghĩa gì?",
+      "answer": "'Đang hoạt động' có nghĩa là thuốc vẫn đang được phép lưu hành và sử dụng trên thị trường, không bị thu hồi hoặc đình chỉ sản xuất do vấn đề chất lượng hay pháp lý."
+    },
+    {
+      "question": "Công ty đăng ký thuốc có thể sửa đổi hồ sơ không?",
+      "answer": "Có, công ty đăng ký thuốc có thể sửa đổi hồ sơ nếu có sự thay đổi về thành phần, cách sử dụng hoặc các thông tin liên quan khác và phải thông báo cho cơ quan quản lý để được phê duyệt."
+    },
+    {
+      "question": "Khi nào thuốc được coi là 'Không có công văn'?",
+      "answer": "'Không có công văn' có thể là tình trạng của thuốc khi không cần hoặc chưa có công văn phê duyệt đặc biệt từ cơ quan chức năng về việc lưu hành hoặc kiểm soát thuốc."
+    },
+    {
+      "question": "Ngày tiếp nhận gia hạn SĐK có vai trò gì?",
+      "answer": "Ngày tiếp nhận gia hạn SĐK là ngày mà cơ quan quản lý dược nhận hồ sơ gia hạn số đăng ký thuốc, để xem xét và quyết định việc gia hạn quyền lưu hành thuốc trên thị trường."
+    },
+    {
+      "question": "Thuốc có cần có giấy tiếp nhận gia hạn không?",
+      "answer": "Có, thuốc cần có giấy tiếp nhận gia hạn khi số đăng ký SĐK đã hết hạn và công ty sản xuất hoặc đăng ký thuốc cần gia hạn quyền lưu hành thuốc trên thị trường."
+    },{
+      "question": "Thuốc có 'Số quyết định SĐK' có nghĩa là gì?",
+      "answer": "Số quyết định SĐK là mã số tham chiếu của quyết định cấp phép lưu hành thuốc, được cấp bởi cơ quan chức năng sau khi thuốc được kiểm tra và phê duyệt."
+    },
+    {
+      "question": "Điều gì quyết định 'Tuổi thọ' của một loại thuốc?",
+      "answer": "Tuổi thọ của thuốc được xác định dựa trên các yếu tố như tính ổn định của hoạt chất, phương pháp bảo quản, và điều kiện sản xuất. Thời gian này cho biết thuốc sẽ giữ được hiệu quả và chất lượng trong bao lâu."
+    },
+    {
+      "question": "Tại sao thuốc có thể bị 'Hết hạn'?",
+      "answer": "Thuốc có thể bị hết hạn do tính ổn định của hoạt chất trong thuốc giảm đi theo thời gian, hoặc thuốc có thể bị thay đổi cấu trúc hóa học, từ đó giảm hiệu quả và an toàn khi sử dụng."
+    },
+    {
+      "question": "Dạng thuốc 'Viên nén' có ưu điểm gì?",
+      "answer": "Dạng viên nén có ưu điểm là dễ bảo quản, dễ sử dụng và có thể kiểm soát liều lượng chính xác. Ngoài ra, viên nén còn giúp che giấu mùi vị của thuốc, tăng cường khả năng chấp nhận từ người sử dụng."
+    },
+    {
+      "question": "Đặc điểm của 'Thuốc dạng tiêm' là gì?",
+      "answer": "Thuốc dạng tiêm có đặc điểm là nhanh chóng đi vào cơ thể và mang lại tác dụng nhanh hơn so với các dạng bào chế khác. Tuy nhiên, thuốc dạng tiêm cần được sử dụng cẩn thận và dưới sự giám sát của nhân viên y tế."
+    },
+    {
+      "question": "Tại sao 'Tiêu chuẩn chất lượng thuốc' lại quan trọng?",
+      "answer": "Tiêu chuẩn chất lượng thuốc đảm bảo rằng thuốc đạt yêu cầu về độ tinh khiết, hàm lượng hoạt chất, và an toàn cho người sử dụng. Điều này giúp giảm thiểu rủi ro gây hại cho người bệnh và nâng cao hiệu quả điều trị."
+    },
+    {
+      "question": "Lý do các thuốc 'Vắc xin' cần kiểm tra nghiêm ngặt là gì?",
+      "answer": "Vắc xin cần được kiểm tra nghiêm ngặt vì chúng có thể tác động trực tiếp đến hệ miễn dịch của cơ thể. Nếu không đạt tiêu chuẩn chất lượng, vắc xin có thể không hiệu quả hoặc gây ra phản ứng phụ nghiêm trọng."
+    },
+    {
+      "question": "Điều gì quyết định giá thuốc đăng ký?",
+      "answer": "Giá thuốc đăng ký được quyết định dựa trên nhiều yếu tố, bao gồm chi phí sản xuất, chi phí nghiên cứu và phát triển, yêu cầu về lợi nhuận của nhà sản xuất và các quy định pháp lý về giá thuốc tại các quốc gia."
+    },
+    {
+      "question": "Công ty sản xuất thuốc có phải chịu trách nhiệm về tác dụng phụ của thuốc không?",
+      "answer": "Có, công ty sản xuất thuốc phải chịu trách nhiệm về tác dụng phụ của thuốc nếu những tác dụng này chưa được dự đoán hoặc chưa được thông báo rõ ràng trong hướng dẫn sử dụng thuốc."
+    },
+    {
+      "question": "Thuốc có 'Hồ sơ ACTD' có ý nghĩa gì?",
+      "answer": "Thuốc có hồ sơ ACTD (Active Pharmaceutical Ingredients) là thuốc có hồ sơ đầy đủ về thành phần nguyên liệu dược phẩm, chứng minh được tính an toàn và hiệu quả của thuốc thông qua các thử nghiệm và nghiên cứu."
+    }
+  ]
